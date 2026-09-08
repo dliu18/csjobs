@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CS Tenure-Track Jobs 2026-27</title>
+  <link rel="stylesheet" href="css/leaflet.css">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div>
+      <p class="eyebrow">2026-27 Hiring Cycle</p>
+      <h1>Computer Science Tenure-Track Jobs</h1>
+    </div>
+    <nav class="view-nav" aria-label="Views">
+      <button class="nav-button active" type="button" data-view="listings">Listings</button>
+      <button class="nav-button" type="button" data-view="calendar">Calendar</button>
+      <button class="nav-button" type="button" data-view="map">Map</button>
+    </nav>
+  </header>
+
+  <main>
+    <section class="intro" aria-label="About this site">
+      <p>This page collects tenure-track computer science junior faculty job listings for the 2026-27 hiring cycle. Listings are updated daily from <a href="https://academicjobsonline.org/ajo?joblst-0-0-0-0---40-p--">AcademicJobsOnline</a> and the <a href="https://careercenter.cra.org/jobs?locale=en&amp;page=1&amp;sort=date&amp;country=&amp;state=&amp;city=&amp;zip=&amp;latitude=&amp;longitude=&amp;keywords=&amp;city_state_zip=">CRA Job Board</a>.</p>
+      <p>Listings are filtered to meet the following three criteria:</p>
+      <p>1. Hiring junior faculty, i.e., either Open Rank or Assistant Professors. 2. Located in North America or Europe. 3. Satisfying an intentionally broad definition of computer science. For AJO, any listing that contains the word &quot;computer&quot; is eligible for inclusion. This may include positions in non-CS departments that welcome applicants with a CS Ph.D. For the CRA Job Board, all listings automatically meet this third criterion. The filter is intentionally broad to reduce the chance that relevant listings slip through the cracks.</p>
+      <p>Listing metadata is extracted with GPT-5.6. *<em>Please verify all application deadlines and requirements using the original listing.</em>*</p>
+      <p>Questions and corrections are welcome. Please contact David Liu at <a href="mailto:davidliu@cornell.edu">davidliu@cornell.edu</a>.</p>
+    </section>
+
+    <section id="listings" class="view active" aria-labelledby="listings-title">
+      <div class="view-toolbar">
+        <div>
+          <h2 id="listings-title">Listings</h2>
+          <p id="job-count" class="muted"></p>
+        </div>
+        <label class="search-box">
+          <span>Search</span>
+          <input id="job-search" type="search" placeholder="University, city, deadline, materials...">
+        </label>
+      </div>
+      <div class="table-wrap">
+        <table id="jobs-table">
+          <thead></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section id="calendar" class="view" aria-labelledby="calendar-title">
+      <div class="view-toolbar">
+        <div>
+          <h2 id="calendar-title">Deadline Calendar</h2>
+          <p class="muted">September 2026 through January 2027</p>
+        </div>
+      </div>
+      <div id="calendar-grid" class="calendar-grid"></div>
+    </section>
+
+    <section id="map" class="view" aria-labelledby="map-title">
+      <div class="view-toolbar">
+        <div>
+          <h2 id="map-title">Map</h2>
+          <p class="muted">Markers use the Lat/Long field from the aggregate CSV.</p>
+        </div>
+      </div>
+      <div class="map-layout">
+        <div id="job-map" class="map-canvas" aria-label="Job location map"></div>
+        <aside id="map-details" class="details-panel">
+          <h3>Job Details</h3>
+          <p class="muted">Select a marker to view a listing.</p>
+        </aside>
+      </div>
+    </section>
+  </main>
+
+  <dialog id="job-dialog">
+    <button class="dialog-close" type="button" aria-label="Close details">x</button>
+    <div id="dialog-content"></div>
+  </dialog>
+
+  <script src="js/jobs.js"></script>
+  <script src="js/leaflet.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
