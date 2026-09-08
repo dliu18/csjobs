@@ -163,10 +163,11 @@ function renderMonth({ year, month, label }) {
 function renderCalendarEntries(dayJobs, year, month, day) {
   if (dayJobs.length === 0) return "";
   const dateKey = `${year}-${String(month + 1).padStart(2, "0")}-${String(day).padStart(2, "0")}`;
+  const intensity = Math.min(dayJobs.length, 5);
   const label = dayJobs.length === 1 ? "1 deadline" : `${dayJobs.length} deadlines`;
   return `
-    <button class="calendar-more" type="button" data-calendar-date="${dateKey}">
-      ${label}
+    <button class="calendar-count deadline-count-${intensity}" type="button" data-calendar-date="${dateKey}" aria-label="${label} on ${dateKey}">
+      ${dayJobs.length}
     </button>
   `;
 }

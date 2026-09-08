@@ -89,8 +89,7 @@ h3 {
 .nav-button,
 .sort-button,
 .details-button,
-.calendar-event,
-.calendar-more {
+.calendar-count {
   border: 1px solid transparent;
   border-radius: var(--radius);
   cursor: pointer;
@@ -130,6 +129,20 @@ main {
 }
 
 .intro p:last-child {
+  margin-bottom: 0;
+}
+
+.intro ol {
+  max-width: 860px;
+  margin: 0 0 12px 1.25rem;
+  padding-left: 1rem;
+}
+
+.intro li {
+  margin-bottom: 8px;
+}
+
+.intro li:last-child {
   margin-bottom: 0;
 }
 
@@ -248,9 +261,7 @@ a {
   text-decoration: underline;
 }
 
-a:hover,
-.calendar-event:hover,
-.calendar-more:hover {
+a:hover {
   color: #0b0080;
 }
 
@@ -340,26 +351,45 @@ a:hover,
   font-size: 0.75rem;
 }
 
-.calendar-event,
-.calendar-more {
-  display: block;
-  width: 100%;
-  min-width: 0;
+.calendar-count {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.75rem;
+  height: 1.75rem;
   margin: 0.25rem 0 0;
-  padding: 0.25rem 0.35rem;
+  padding: 0;
   overflow: hidden;
-  background: var(--accent-soft);
-  border-color: #b6d4fe;
-  color: var(--accent-strong);
-  font-size: 0.75rem;
-  line-height: 1.25;
+  color: #ffffff;
+  font-size: 0.8125rem;
+  font-weight: 700;
+  line-height: 1;
   text-align: center;
-  text-overflow: ellipsis;
-  white-space: nowrap;
 }
 
-.calendar-more {
-  color: var(--accent-strong);
+.calendar-count:hover {
+  color: #ffffff;
+  filter: brightness(0.92);
+}
+
+.deadline-count-1 {
+  background: #f4a3a3;
+}
+
+.deadline-count-2 {
+  background: #ea6b6b;
+}
+
+.deadline-count-3 {
+  background: #dc3545;
+}
+
+.deadline-count-4 {
+  background: #b02a37;
+}
+
+.deadline-count-5 {
+  background: #842029;
 }
 
 .map-layout {
