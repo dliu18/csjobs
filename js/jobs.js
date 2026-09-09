@@ -778,5 +778,18 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2370",
     "Input Tokens": "717",
     "Output Tokens": "290"
+  },
+  {
+    "Posted Date": "2026-09-09",
+    "Application Deadline": "2026-12-01",
+    "Application Materials": "Curriculum vitae; Research statement; Teaching and mentoring plan; Broader impact statement; Three representative reprints or preprints; Three recommendation letters",
+    "University": "Massachusetts Institute of Technology (MIT)",
+    "Department": "Department of Brain and Cognitive Sciences; McGovern Institute for Brain Research",
+    "Position Title": "Tenure-track Assistant Professor or higher in Neuroscience",
+    "Lat/Long": "42.3601, -71.0942",
+    "City": "Cambridge, Massachusetts",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/32642",
+    "Input Tokens": "1121",
+    "Output Tokens": "184"
   }
 ];
