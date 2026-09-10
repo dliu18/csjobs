@@ -791,5 +791,31 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://academicjobsonline.org/ajo/jobs/32642",
     "Input Tokens": "1121",
     "Output Tokens": "184"
+  },
+  {
+    "Posted Date": "2026-09-09",
+    "Application Deadline": "2026-11-01",
+    "Application Materials": "Research and teaching statement/letter; Curriculum vitae; Names of three referees for recommendation letters",
+    "University": "Stanford University",
+    "Department": "Department of Biomedical Data Science, Stanford University School of Medicine",
+    "Position Title": "Open-Rank Professor of Biomedical Data Science",
+    "Lat/Long": "37.4275, -122.1697",
+    "City": "Stanford, California",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/32656",
+    "Input Tokens": "1595",
+    "Output Tokens": "191"
+  },
+  {
+    "Posted Date": "2026-09-09",
+    "Application Deadline": "2026-11-28",
+    "Application Materials": "Application materials not specified; submit all materials online",
+    "University": "Stony Brook University",
+    "Department": "Department of Biomedical Informatics",
+    "Position Title": "Clinical Data Scientist, Assistant/Associate Professor",
+    "Lat/Long": "40.9176, -73.1234",
+    "City": "Stony Brook, New York",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/32655",
+    "Input Tokens": "1647",
+    "Output Tokens": "268"
   }
 ];
