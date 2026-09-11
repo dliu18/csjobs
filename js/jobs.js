@@ -817,5 +817,57 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://academicjobsonline.org/ajo/jobs/32655",
     "Input Tokens": "1647",
     "Output Tokens": "268"
+  },
+  {
+    "Posted Date": "2026-09-10",
+    "Application Deadline": "2026-10-15",
+    "Application Materials": "Cover letter; Curriculum vitae; Teaching statement; Evidence of teaching effectiveness; Educational Leadership Vision Statement; Three letters of reference; Diversity statement",
+    "University": "University of British Columbia",
+    "Department": "Department of Computer Science",
+    "Position Title": "Assistant Professor of Teaching in Systems (Tenure Track)",
+    "Lat/Long": "49.2606, -123.2460",
+    "City": "Vancouver, British Columbia",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/32649",
+    "Input Tokens": "2399",
+    "Output Tokens": "219"
+  },
+  {
+    "Posted Date": "2026-09-11",
+    "Application Deadline": "Review begins immediately; open until filled",
+    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; References; Official transcripts upon selection as a finalist",
+    "University": "University of Houston",
+    "Department": "Department of Computer Science",
+    "Position Title": "Assistant Professor of Human-Centered Robotics and Assistive Systems",
+    "Lat/Long": "29.7199, -95.3422",
+    "City": "Houston, Texas",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2420",
+    "Input Tokens": "1173",
+    "Output Tokens": "260"
+  },
+  {
+    "Posted Date": "2026-09-11",
+    "Application Deadline": "Review begins immediately; open until filled",
+    "Application Materials": "Curriculum vitae; Research statement; Teaching statement; Cover letter; Official transcripts upon selection",
+    "University": "University of Houston",
+    "Department": "Department of Computer Science",
+    "Position Title": "Assistant Professor of Quantum Information Science",
+    "Lat/Long": "29.7199, -95.3422",
+    "City": "Houston, Texas",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2419",
+    "Input Tokens": "1201",
+    "Output Tokens": "282"
+  },
+  {
+    "Posted Date": "2026-09-10",
+    "Application Deadline": "Not specified in the listing",
+    "Application Materials": "Application materials specified on the EECS employment opportunities page; apply via Interfolio",
+    "University": "University of Tennessee, Knoxville",
+    "Department": "Min H. Kao Department of Electrical Engineering and Computer Science",
+    "Position Title": "Tenure-Track Assistant Professor positions in Electrical Engineering, Computer Engineering, and Computer Science; HPC Professorship",
+    "Lat/Long": "35.9544, -83.9295",
+    "City": "Knoxville, Tennessee",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2414",
+    "Input Tokens": "830",
+    "Output Tokens": "295"
   }
 ];
