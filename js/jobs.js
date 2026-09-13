@@ -869,5 +869,18 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2414",
     "Input Tokens": "830",
     "Output Tokens": "295"
+  },
+  {
+    "Posted Date": "2026-09-11",
+    "Application Deadline": "2026-10-15",
+    "Application Materials": "Curriculum vitae; Cover letter; Teaching statement; Equity, diversity, and inclusion statement; Names and contact information for references",
+    "University": "University of British Columbia",
+    "Department": "Department of Computer Science",
+    "Position Title": "Assistant Professor of Teaching in Systems",
+    "Lat/Long": "49.2606, -123.2460",
+    "City": "Vancouver, British Columbia, Canada",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2421",
+    "Input Tokens": "615",
+    "Output Tokens": "243"
   }
 ];
