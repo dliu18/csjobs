@@ -882,5 +882,18 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2421",
     "Input Tokens": "615",
     "Output Tokens": "243"
+  },
+  {
+    "Posted Date": "2026-09-14",
+    "Application Deadline": "Not specified",
+    "Application Materials": "Application submitted through the Missouri S&T careers portal",
+    "University": "Missouri University of Science & Technology",
+    "Department": "Computer Science",
+    "Position Title": "Assistant or Associate Professor (tenure-track/tenured)",
+    "Lat/Long": "37.9547, -91.7735",
+    "City": "Rolla, Missouri",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2422",
+    "Input Tokens": "850",
+    "Output Tokens": "212"
   }
 ];
