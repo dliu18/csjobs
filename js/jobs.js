@@ -1012,5 +1012,18 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2428",
     "Input Tokens": "634",
     "Output Tokens": "227"
+  },
+  {
+    "Posted Date": "2026-09-16",
+    "Application Deadline": "Rolling review",
+    "Application Materials": "Application materials as specified in the Interfolio application portal",
+    "University": "University of Notre Dame",
+    "Department": "IT, Analytics, and Operations (ITAO), Mendoza College of Business",
+    "Position Title": "Open-Rank Tenure-Track Faculty in IT, Analytics, and Operations",
+    "Lat/Long": "41.7046, -86.2382",
+    "City": "Notre Dame, Indiana",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2432",
+    "Input Tokens": "609",
+    "Output Tokens": "216"
   }
 ];
