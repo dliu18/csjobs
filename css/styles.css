@@ -35,13 +35,25 @@ main {
 }
 
 .site-header {
-  display: flex;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
   align-items: end;
   justify-content: space-between;
-  gap: 24px;
+  gap: 12px 24px;
   padding: 28px 0 18px;
   border-bottom: 1px solid var(--border);
 }
+
+.header-meta {
+  grid-column: 1 / -1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px 20px;
+}
+
+.header-meta .eyebrow { margin: 0; }
 
 .eyebrow {
   margin: 0 0 4px;
@@ -291,8 +303,8 @@ a:hover {
 
 .calendar-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-  gap: 1rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 24px;
 }
 
 .month {
@@ -300,16 +312,31 @@ a:hover {
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius);
-  box-shadow: var(--shadow);
+  padding: 16px;
 }
 
 .month h3 {
   margin: 0;
-  padding: 0.75rem 1rem;
-  border-bottom: 1px solid var(--border);
-  background: #f1f3f5;
+  padding: 2px 4px 16px;
   font-size: 1rem;
 }
+
+.calendar-legend { display: flex; align-items: center; gap: 5px; flex-wrap: wrap; font-size: 0.75rem; }
+.calendar-legend > span:first-child { margin-right: 5px; color: #495057; }
+.legend-swatch { display: inline-grid; place-items: center; width: 28px; height: 28px; border-radius: 4px; font-weight: 600; }
+.calendar-count:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+.personal-link {
+  display: inline-block;
+  padding: 6px 0;
+  color: #495057;
+  font-size: 0.875rem;
+  font-weight: 500;
+  text-decoration: none;
+  text-underline-offset: 4px;
+  white-space: nowrap;
+}
+.personal-link:hover { color: var(--accent-strong); text-decoration: underline; }
+.personal-link:focus-visible { outline: 2px solid var(--accent); outline-offset: 4px; border-radius: 2px; }
 
 .calendar-weekdays,
 .calendar-days {
@@ -318,8 +345,7 @@ a:hover {
 }
 
 .calendar-weekdays span {
-  padding: 0.5rem;
-  border-bottom: 1px solid var(--border);
+  padding: 0 0 12px;
   color: var(--muted);
   font-size: 0.75rem;
   font-weight: 700;
@@ -328,10 +354,9 @@ a:hover {
 
 .day {
   min-width: 0;
-  min-height: 78px;
-  padding: 0.375rem;
-  border-right: 1px solid var(--border);
-  border-bottom: 1px solid var(--border);
+  height: 72px;
+  padding: 5px;
+  border-top: 1px solid #edf0f2;
   background: #ffffff;
   overflow: hidden;
 }
@@ -341,13 +366,13 @@ a:hover {
 }
 
 .day.empty {
-  background: #fafafa;
+  background: #f8f9fa;
 }
 
 .day-number {
   display: block;
   margin-bottom: 0.25rem;
-  color: var(--muted);
+  color: #495057;
   font-size: 0.75rem;
 }
 
@@ -355,9 +380,9 @@ a:hover {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 1.75rem;
-  height: 1.75rem;
-  margin: 0.25rem 0 0;
+  width: 100%;
+  height: 32px;
+  margin: 0;
   padding: 0;
   overflow: hidden;
   color: #ffffff;
@@ -368,28 +393,32 @@ a:hover {
 }
 
 .calendar-count:hover {
-  color: #ffffff;
   filter: brightness(0.92);
 }
 
 .deadline-count-1 {
-  background: #f4a3a3;
+  background: #fce8e8;
+  color: #842029;
 }
 
 .deadline-count-2 {
-  background: #ea6b6b;
+  background: #f5b7bc;
+  color: #681a22;
 }
 
 .deadline-count-3 {
-  background: #dc3545;
+  background: #c93c4a;
+  color: #ffffff;
 }
 
 .deadline-count-4 {
   background: #b02a37;
+  color: #ffffff;
 }
 
 .deadline-count-5 {
   background: #842029;
+  color: #ffffff;
 }
 
 .map-layout {
@@ -489,6 +518,7 @@ dialog::backdrop {
   }
 
   .site-header {
+    grid-template-columns: minmax(0, 1fr);
     padding-top: 22px;
   }
 
@@ -503,4 +533,11 @@ dialog::backdrop {
   .map-canvas {
     min-height: 420px;
   }
+}
+
+@media (max-width: 640px) {
+  .calendar-grid { grid-template-columns: minmax(0, 1fr); gap: 16px; }
+  .month { padding: 12px; }
+  .day { padding: 4px; height: 68px; }
+  h1 { font-size: 1.75rem; overflow-wrap: break-word; }
 }

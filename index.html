@@ -4,15 +4,27 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>CS Tenure-Track Jobs 2026-27</title>
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="CS Tenure-Track Jobs 2026-27">
+  <meta property="og:description" content="Computer science faculty job listings for the 2026-27 hiring cycle, with deadline calendars and a location map.">
+  <meta property="og:url" content="https://dliu18.github.io/csjobs/">
+  <meta property="og:image" content="https://dliu18.github.io/csjobs/css/social-preview.png">
+  <meta property="og:image:alt" content="Computer Science Tenure-Track Jobs website introduction">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="CS Tenure-Track Jobs 2026-27">
+  <meta name="twitter:description" content="Computer science faculty job listings, deadlines, and locations for the 2026-27 hiring cycle.">
+  <meta name="twitter:image" content="https://dliu18.github.io/csjobs/css/social-preview.png">
+  <meta name="twitter:image:alt" content="Computer Science Tenure-Track Jobs website introduction">
   <link rel="stylesheet" href="css/leaflet.css">
   <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
   <header class="site-header">
-    <div>
+    <div class="header-meta">
       <p class="eyebrow">2026-27 Hiring Cycle</p>
-      <h1>Computer Science Tenure-Track Jobs</h1>
+      <a class="personal-link" href="https://dliu18.github.io/">Personal Site</a>
     </div>
+    <h1>Computer Science Tenure-Track Jobs</h1>
     <nav class="view-nav" aria-label="Views">
       <button class="nav-button active" type="button" data-view="listings">Listings</button>
       <button class="nav-button" type="button" data-view="calendar">Calendar</button>
@@ -56,7 +68,15 @@
       <div class="view-toolbar">
         <div>
           <h2 id="calendar-title">Deadline Calendar</h2>
-          <p class="muted">September 2026 through January 2027. Red numbers show how many application deadlines fall on each date.</p>
+          <p class="muted">September 2026 &ndash; January 2027. Each red number is the number of deadlines on that date.</p>
+        </div>
+        <div class="calendar-legend" aria-label="Deadline density: darker red means more deadlines">
+          <span>Deadlines</span>
+          <span class="legend-swatch deadline-count-1">1</span>
+          <span class="legend-swatch deadline-count-2">2</span>
+          <span class="legend-swatch deadline-count-3">3</span>
+          <span class="legend-swatch deadline-count-4">4</span>
+          <span class="legend-swatch deadline-count-5">5+</span>
         </div>
       </div>
       <div id="calendar-grid" class="calendar-grid"></div>

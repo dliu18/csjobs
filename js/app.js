@@ -149,6 +149,9 @@ function renderMonth({ year, month, label }) {
       </div>
     `);
   }
+  while (cells.length < 42) {
+    cells.push(`<div class="day empty" aria-hidden="true"></div>`);
+  }
   return `
     <section class="month">
       <h3>${label}</h3>
