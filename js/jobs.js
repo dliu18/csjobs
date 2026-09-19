@@ -1116,5 +1116,18 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2433",
     "Input Tokens": "751",
     "Output Tokens": "232"
+  },
+  {
+    "Posted Date": "2026-09-18",
+    "Application Deadline": "Not specified",
+    "Application Materials": "Not specified in the listing; see application link for requirements",
+    "University": "University of Colorado Denver",
+    "Department": "Department of Computer Science and Engineering",
+    "Position Title": "Open-Rank Tenure-Track Faculty",
+    "Lat/Long": "39.7450, -104.9986",
+    "City": "Denver, Colorado",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2441",
+    "Input Tokens": "601",
+    "Output Tokens": "249"
   }
 ];
