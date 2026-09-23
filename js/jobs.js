@@ -1129,5 +1129,70 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2441",
     "Input Tokens": "601",
     "Output Tokens": "249"
+  },
+  {
+    "Posted Date": "2026-09-23",
+    "Application Deadline": "2026-11-16",
+    "Application Materials": "Cover letter; Curriculum vitae; Summary of past research activities (up to 2 pages); Overview of future research interests (up to 2 pages); Three letters of recommendation",
+    "University": "Stony Brook University",
+    "Department": "Laufer Center for Physical & Quantitative Biology",
+    "Position Title": "Endowed Tenure-Track Faculty Position in Physical and Quantitative Biology",
+    "Lat/Long": "40.9176, -73.1234",
+    "City": "Stony Brook, New York",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/32810",
+    "Input Tokens": "1388",
+    "Output Tokens": "239"
+  },
+  {
+    "Posted Date": "2026-09-22",
+    "Application Deadline": "Not specified",
+    "Application Materials": "Curriculum vitae; Cover letter; Research statement; Teaching statement; Contact information for references",
+    "University": "University of Minnesota Twin Cities",
+    "Department": "School of Physics and Astronomy",
+    "Position Title": "Assistant Professor of Physics",
+    "Lat/Long": "44.9740, -93.2277",
+    "City": "Minneapolis, Minnesota",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/32796",
+    "Input Tokens": "593",
+    "Output Tokens": "239"
+  },
+  {
+    "Posted Date": "2026-09-23",
+    "Application Deadline": "November 20, 2026 (review begins; applications accepted until filled)",
+    "Application Materials": "Application submitted through the McGill Careers portal; specific documents are not listed",
+    "University": "McGill University",
+    "Department": "School of Computer Science",
+    "Position Title": "Assistant Professor in Quantum Computing",
+    "Lat/Long": "45.5048, -73.5772",
+    "City": "Montréal, Quebec, Canada",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2449",
+    "Input Tokens": "723",
+    "Output Tokens": "264"
+  },
+  {
+    "Posted Date": "2026-09-23",
+    "Application Deadline": "2026-11-15",
+    "Application Materials": "Curriculum vitae; Cover letter; Research statement; Teaching statement; Names and contact information for references",
+    "University": "McGill University",
+    "Department": "School of Computer Science",
+    "Position Title": "Tenure-Track Faculty in Secure Software and Computer Systems",
+    "Lat/Long": "45.5048, -73.5772",
+    "City": "Montréal, Quebec, Canada",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2447",
+    "Input Tokens": "764",
+    "Output Tokens": "232"
+  },
+  {
+    "Posted Date": "2026-09-22",
+    "Application Deadline": "Not specified",
+    "Application Materials": "Application materials not specified in the listing; see application portal",
+    "University": "University of North Carolina at Greensboro",
+    "Department": "Department of Computer Science",
+    "Position Title": "Assistant Professor of Computer Science",
+    "Lat/Long": "36.0687, -79.8103",
+    "City": "Greensboro, North Carolina",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2445",
+    "Input Tokens": "613",
+    "Output Tokens": "215"
   }
 ];
