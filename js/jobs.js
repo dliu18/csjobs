@@ -1194,5 +1194,57 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2445",
     "Input Tokens": "613",
     "Output Tokens": "215"
+  },
+  {
+    "Posted Date": "2026-09-23",
+    "Application Deadline": "2026-12-07",
+    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching dossier, including teaching statement, sample syllabi/course materials, and teaching evaluations; Three recent signed reference letters",
+    "University": "University of Toronto",
+    "Department": "Department of Statistical Sciences, Faculty of Arts and Science",
+    "Position Title": "Assistant Professor of Data Science Computation",
+    "Lat/Long": "43.6629, -79.3957",
+    "City": "Toronto, Ontario",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/32803",
+    "Input Tokens": "1479",
+    "Output Tokens": "179"
+  },
+  {
+    "Posted Date": "2026-09-24",
+    "Application Deadline": "2026-10-25",
+    "Application Materials": "Cover letter; Curriculum vitae (CV); Two writing samples (Assistant Professor applicants); Three letters of recommendation (Assistant Professor applicants)",
+    "University": "Johns Hopkins University",
+    "Department": "School of Government and Policy",
+    "Position Title": "Assistant, Associate, or Full Professor",
+    "Lat/Long": "38.8959, -77.0229",
+    "City": "Washington, District of Columbia",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2452",
+    "Input Tokens": "784",
+    "Output Tokens": "342"
+  },
+  {
+    "Posted Date": "September 24, 2026",
+    "Application Deadline": "November 1, 2026",
+    "Application Materials": "Cover letter; CV with publication list; Research statement; Teaching statement; Names and contact information for 3–5 references",
+    "University": "EPFL (École polytechnique fédérale de Lausanne)",
+    "Department": "School of Computer and Communication Sciences",
+    "Position Title": "Tenure-Track Assistant Professor in Security and Privacy",
+    "Lat/Long": "46.5197, 6.6323",
+    "City": "Lausanne, Vaud, Switzerland",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2451",
+    "Input Tokens": "742",
+    "Output Tokens": "202"
+  },
+  {
+    "Posted Date": "2026-09-24",
+    "Application Deadline": "2026-11-01",
+    "Application Materials": "Cover letter; Curriculum vitae with publication list; Research statement; Teaching statement; Contact information for 3–5 references for tenure-track assistant professor applicants or 5–7 references for associate/full professor applicants",
+    "University": "École polytechnique fédérale de Lausanne (EPFL)",
+    "Department": "School of Computer and Communication Sciences",
+    "Position Title": "Faculty Positions in Computer and Communication Sciences",
+    "Lat/Long": "46.5197, 6.6323",
+    "City": "Lausanne, Vaud, Switzerland",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2450",
+    "Input Tokens": "764",
+    "Output Tokens": "214"
   }
 ];
