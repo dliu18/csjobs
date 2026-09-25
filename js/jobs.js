@@ -1246,5 +1246,18 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2450",
     "Input Tokens": "764",
     "Output Tokens": "214"
+  },
+  {
+    "Posted Date": "2026-09-25",
+    "Application Deadline": "Not specified",
+    "Application Materials": "Online application; specific materials not specified",
+    "University": "University of Chicago",
+    "Department": "Department of Computer Science and/or Department of Statistics",
+    "Position Title": "Assistant Professor / Associate Professor of Data Science",
+    "Lat/Long": "41.7917, -87.5996",
+    "City": "Chicago, Illinois",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2456",
+    "Input Tokens": "577",
+    "Output Tokens": "181"
   }
 ];
