@@ -1259,5 +1259,57 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2456",
     "Input Tokens": "577",
     "Output Tokens": "181"
+  },
+  {
+    "Posted Date": "2026-09-26",
+    "Application Deadline": "2026-12-01",
+    "Application Materials": "Cover letter; Curriculum vitae; Personal statement covering research, teaching, and service; List of four references with contact information",
+    "University": "Texas A&M University",
+    "Department": "Department of Computer Science and Engineering",
+    "Position Title": "Tenure-track Faculty Positions, Open Rank",
+    "Lat/Long": "30.6187, -96.3365",
+    "City": "College Station, Texas",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2460",
+    "Input Tokens": "1176",
+    "Output Tokens": "200"
+  },
+  {
+    "Posted Date": "2026-09-25",
+    "Application Deadline": "2026-10-15",
+    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Diversity, equity, and inclusion statement; Contact information for references",
+    "University": "University of Washington Bothell",
+    "Department": "Computing & Software Systems, School of STEM",
+    "Position Title": "Assistant Professor, Computing & Software Systems",
+    "Lat/Long": "47.7589, -122.1905",
+    "City": "Bothell, Washington",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2459",
+    "Input Tokens": "595",
+    "Output Tokens": "232"
+  },
+  {
+    "Posted Date": "2026-09-25",
+    "Application Deadline": "2026-10-01",
+    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Contact information for references",
+    "University": "Bowdoin College",
+    "Department": "Department of Computer Science",
+    "Position Title": "Tenure-Track Assistant Professor of Computer Science",
+    "Lat/Long": "43.9078, -69.9634",
+    "City": "Brunswick, Maine",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2458",
+    "Input Tokens": "749",
+    "Output Tokens": "187"
+  },
+  {
+    "Posted Date": "2026-09-25",
+    "Application Deadline": "2026-12-01",
+    "Application Materials": "Curriculum vitae; Research statement; Teaching statement; Optional up to three recent publications; Three to five reference letters for assistant professor candidates, or reference list for senior candidates",
+    "University": "Johns Hopkins University",
+    "Department": "Department of Computer Science",
+    "Position Title": "Tenure-Track Faculty, Open Rank",
+    "Lat/Long": "39.3299, -76.6205",
+    "City": "Baltimore, Maryland",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2457",
+    "Input Tokens": "910",
+    "Output Tokens": "203"
   }
 ];
