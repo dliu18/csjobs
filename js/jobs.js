@@ -1311,5 +1311,44 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2457",
     "Input Tokens": "910",
     "Output Tokens": "203"
+  },
+  {
+    "Posted Date": "2026-09-28",
+    "Application Deadline": "2026-11-22",
+    "Application Materials": "Curriculum vitae; Cover letter; Teaching philosophy statement; Research plan; Three reference letters",
+    "University": "Lake Forest College",
+    "Department": "Department of Mathematics and Computer Science",
+    "Position Title": "Assistant Professor of Computer Science",
+    "Lat/Long": "42.2397, -87.8356",
+    "City": "Lake Forest, Illinois",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/32855",
+    "Input Tokens": "1125",
+    "Output Tokens": "273"
+  },
+  {
+    "Posted Date": "2026-09-28",
+    "Application Deadline": "2026-12-31",
+    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Diversity or inclusion statement; References",
+    "University": "Georgia Institute of Technology",
+    "Department": "School of Cybersecurity and Privacy",
+    "Position Title": "Open-Rank Tenure-Track Faculty in Cybersecurity and Privacy",
+    "Lat/Long": "33.7756, -84.3963",
+    "City": "Atlanta, Georgia",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/32854",
+    "Input Tokens": "2089",
+    "Output Tokens": "244"
+  },
+  {
+    "Posted Date": "2026-09-27",
+    "Application Deadline": "Not specified",
+    "Application Materials": "",
+    "University": "University of Minnesota Twin Cities",
+    "Department": "School of Physics and Astronomy",
+    "Position Title": "Assistant Professor of Physics",
+    "Lat/Long": "44.9740, -93.2277",
+    "City": "Minneapolis, Minnesota",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/32850",
+    "Input Tokens": "594",
+    "Output Tokens": "179"
   }
 ];
