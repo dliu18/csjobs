@@ -1441,5 +1441,18 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2462",
     "Input Tokens": "675",
     "Output Tokens": "203"
+  },
+  {
+    "Posted Date": "2026-09-30",
+    "Application Deadline": "Not specified",
+    "Application Materials": "See application portal for required materials",
+    "University": "University of Washington",
+    "Department": "Department of Human Centered Design & Engineering",
+    "Position Title": "Assistant Professor in Human-Centered Design and Engineering",
+    "Lat/Long": "47.6553, -122.3035",
+    "City": "Seattle, Washington",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2472",
+    "Input Tokens": "609",
+    "Output Tokens": "225"
   }
 ];
