@@ -1454,5 +1454,57 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2472",
     "Input Tokens": "609",
     "Output Tokens": "225"
+  },
+  {
+    "Posted Date": "2026-10-01",
+    "Application Deadline": "2026-11-30",
+    "Application Materials": "Curriculum vitae; Research statement; Teaching statement; Publication list and selected publications; Academic degree and doctoral certificates; References",
+    "University": "Technical University of Munich (TUM)",
+    "Department": "TUM School of Computation, Information and Technology, Department of Computer Engineering",
+    "Position Title": "Professor of Distributed Systems and Security",
+    "Lat/Long": "48.1497, 11.5679",
+    "City": "Munich, Bavaria, Germany",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2470",
+    "Input Tokens": "1088",
+    "Output Tokens": "413"
+  },
+  {
+    "Posted Date": "2026-10-01",
+    "Application Deadline": "2026-11-30",
+    "Application Materials": "Curriculum vitae; Research statement; Teaching statement; Publication list and selected publications; Academic degree and doctoral certificates; Additional documents required by TUM professor application guidelines",
+    "University": "Technical University of Munich (TUM)",
+    "Department": "TUM School of Computation, Information and Technology, Department of Computer Engineering",
+    "Position Title": "Professor of Computer Architecture and Operating Systems (Tenure-Track Assistant Professor or Associate/Full Professor)",
+    "Lat/Long": "49.1420, 9.2205",
+    "City": "Heilbronn, Baden-Württemberg, Germany",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2469",
+    "Input Tokens": "1111",
+    "Output Tokens": "483"
+  },
+  {
+    "Posted Date": "2026-09-30",
+    "Application Deadline": "2026-12-01",
+    "Application Materials": "Cover letter; Research and teaching statement; Curriculum vitae; Publication list; Up to three key publications; Equity and inclusive excellence statement; Names and contact information for 3–5 references",
+    "University": "University of California, Irvine",
+    "Department": "Department of Electrical Engineering and Computer Science",
+    "Position Title": "Assistant Professor in AI/ML",
+    "Lat/Long": "33.6437, -117.8443",
+    "City": "Irvine, California",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2475",
+    "Input Tokens": "1003",
+    "Output Tokens": "261"
+  },
+  {
+    "Posted Date": "September 30, 2026",
+    "Application Deadline": "December 1, 2026 (maximum consideration; open until filled)",
+    "Application Materials": "Curriculum vitae; Cover letter; Research statement; Teaching statement; References",
+    "University": "University of California, Irvine",
+    "Department": "Department of Electrical Engineering and Computer Science",
+    "Position Title": "Assistant Professor in Quantum and Semiconductor Engineering",
+    "Lat/Long": "33.6405, -117.8443",
+    "City": "Irvine, California",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2473",
+    "Input Tokens": "1069",
+    "Output Tokens": "348"
   }
 ];
