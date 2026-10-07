@@ -1649,5 +1649,18 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2478",
     "Input Tokens": "648",
     "Output Tokens": "202"
+  },
+  {
+    "Posted Date": "2026-10-05",
+    "Application Deadline": "2026-11-30 (recommended for best consideration; applications reviewed on a rolling basis)",
+    "Application Materials": "Curriculum vitae; Cover letter; Research statement; Teaching statement; References",
+    "University": "University of Michigan",
+    "Department": "Computer Science and Engineering, College of Engineering",
+    "Position Title": "Tenure-track Faculty Positions in Computer Science and Engineering (Open Rank)",
+    "Lat/Long": "42.2780, -83.7382",
+    "City": "Ann Arbor, Michigan",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2483",
+    "Input Tokens": "826",
+    "Output Tokens": "262"
   }
 ];
