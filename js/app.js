@@ -70,6 +70,12 @@ function updateSort(field) {
 
 function sortedJobs() {
   return [...jobs].sort((a, b) => {
+    if (sortState.field.includes("Date") || sortState.field.includes("Deadline")) {
+      const dateA = parseDateValue(a[sortState.field]);
+      const dateB = parseDateValue(b[sortState.field]);
+      // Undated listings stay at the bottom in either sort direction.
+      if (Boolean(dateA) !== Boolean(dateB)) return dateA ? -1 : 1;
+    }
     const comparison = compareValues(a[sortState.field], b[sortState.field], sortState.field);
     return sortState.direction === "asc" ? comparison : -comparison;
   });
@@ -260,10 +266,16 @@ function detailsHtml(job) {
 
 function parseDateValue(value) {
   if (!value) return null;
-  const match = String(value).match(/(\d{4})[-/](\d{1,2})[-/](\d{1,2})/);
+  const text = String(value);
+  // Accept both normalized dates and month-name dates produced by collection.
+  const match = text.match(/\b(\d{4})[-/](\d{1,2})[-/](\d{1,2})\b|\b(Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:t(?:ember)?)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\.?\s+(\d{1,2})(?:st|nd|rd|th)?,?\s+(\d{4})\b/i);
   if (!match) return null;
-  const date = new Date(Number(match[1]), Number(match[2]) - 1, Number(match[3]));
-  return Number.isNaN(date.getTime()) ? null : date;
+  const months = ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"];
+  const year = Number(match[1] || match[6]);
+  const month = match[1] ? Number(match[2]) - 1 : months.indexOf(match[4].slice(0, 3).toLowerCase());
+  const day = Number(match[3] || match[5]);
+  const date = new Date(year, month, day);
+  return date.getFullYear() === year && date.getMonth() === month && date.getDate() === day ? date : null;
 }
 
 function formatDateKey(date) {
