@@ -1818,5 +1818,18 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://academicjobsonline.org/ajo/jobs/32633",
     "Input Tokens": "",
     "Output Tokens": ""
+  },
+  {
+    "Posted Date": "2026-09-15",
+    "Application Deadline": "2026-10-15 (review begins; applications accepted and considered until positions are filled)",
+    "Application Materials": "CV; cover letter (1–2 pages suggested); research statement (2–4 pages suggested); up to three writing samples; teaching statement (1–2 pages suggested); names and contact details of three references (letters requested later if warranted)",
+    "University": "The University of Texas at Austin",
+    "Department": "Department of Information (iSchool), School of Computing",
+    "Position Title": "Open-Rank Tenured / Tenure-Track Faculty — Information (Assistant, Associate, or Full Professor)",
+    "Lat/Long": "30.2849, -97.7341",
+    "City": "Austin, Texas",
+    "Listing Link": "https://faculty.utexas.edu/career/191973",
+    "Input Tokens": "",
+    "Output Tokens": ""
   }
 ];
