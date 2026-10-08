@@ -1831,5 +1831,70 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://faculty.utexas.edu/career/191973",
     "Input Tokens": "",
     "Output Tokens": ""
+  },
+  {
+    "Posted Date": "2026-10-07",
+    "Application Deadline": "Not specified",
+    "Application Materials": "Application materials as specified in the online application instructions",
+    "University": "Northwestern University",
+    "Department": "Computer Science; Electrical and Computer Engineering (for the joint quantum computing appointment)",
+    "Position Title": "Tenure-Track Assistant or Associate Professor in Computer Science or Quantum Computing",
+    "Lat/Long": "42.0565, -87.6753",
+    "City": "Evanston, Illinois",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2490",
+    "Input Tokens": "879",
+    "Output Tokens": "219"
+  },
+  {
+    "Posted Date": "2026-10-07",
+    "Application Deadline": "Not specified",
+    "Application Materials": "See application website for required materials",
+    "University": "Oklahoma State University",
+    "Department": "Department of Computer Science",
+    "Position Title": "Open-rank tenure-track faculty position in Computer Science",
+    "Lat/Long": "36.1156, -97.0584",
+    "City": "Stillwater, Oklahoma",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2489",
+    "Input Tokens": "664",
+    "Output Tokens": "187"
+  },
+  {
+    "Posted Date": "2026-10-07",
+    "Application Deadline": "2026-12-11",
+    "Application Materials": "Application submitted via PageUp; see posting for required materials",
+    "University": "San Diego State University",
+    "Department": "Management Information Systems (MIS), Fowler College of Business",
+    "Position Title": "Assistant Professor of AI Security",
+    "Lat/Long": "32.7758, -117.0719",
+    "City": "San Diego, California",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2487",
+    "Input Tokens": "574",
+    "Output Tokens": "218"
+  },
+  {
+    "Posted Date": "2026-10-07",
+    "Application Deadline": "2026-12-11",
+    "Application Materials": "Application materials not specified in the listing",
+    "University": "San Diego State University",
+    "Department": "Electrical and Computer Engineering",
+    "Position Title": "Assistant Professor of Secure Hardware Systems",
+    "Lat/Long": "32.7758, -117.0719",
+    "City": "San Diego, California",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2486",
+    "Input Tokens": "564",
+    "Output Tokens": "191"
+  },
+  {
+    "Posted Date": "2026-10-07",
+    "Application Deadline": "2026-11-13",
+    "Application Materials": "Curriculum vitae; Cover letter; Research statement; Teaching statement; References",
+    "University": "University of Waterloo",
+    "Department": "David R. Cheriton School of Computer Science",
+    "Position Title": "Tenure-stream faculty positions",
+    "Lat/Long": "43.4723, -80.5449",
+    "City": "Waterloo, Ontario, Canada",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2485",
+    "Input Tokens": "1261",
+    "Output Tokens": "235"
   }
 ];
