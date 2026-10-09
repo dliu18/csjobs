@@ -1896,5 +1896,44 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2485",
     "Input Tokens": "1261",
     "Output Tokens": "235"
+  },
+  {
+    "Posted Date": "2026-10-08",
+    "Application Deadline": "2026-11-23",
+    "Application Materials": "Curriculum vitae; Cover letter; Research statement; Teaching statement; Three reference letters",
+    "University": "Utah State University",
+    "Department": "Department of Mathematics and Statistics",
+    "Position Title": "Assistant Professor in Mathematical Foundations of Quantum Information Science",
+    "Lat/Long": "41.7457, -111.8107",
+    "City": "Logan, Utah",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33013",
+    "Input Tokens": "2420",
+    "Output Tokens": "166"
+  },
+  {
+    "Posted Date": "2026-10-09",
+    "Application Deadline": "Immediately; full consideration by December 1, 2026 (closing January 15, 2027)",
+    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Service statement; Three publications; At least three reference letters",
+    "University": "Cornell University",
+    "Department": "School of Electrical and Computer Engineering",
+    "Position Title": "Tenure-track faculty positions in Electrical and Computer Engineering, all ranks",
+    "Lat/Long": "42.4472, -76.4849",
+    "City": "Ithaca, New York",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/32962",
+    "Input Tokens": "1626",
+    "Output Tokens": "304"
+  },
+  {
+    "Posted Date": "2026-10-08",
+    "Application Deadline": "2026-11-15",
+    "Application Materials": "Cover letter; Curriculum vitae or resume; Research statement; Teaching philosophy statement",
+    "University": "Rochester Institute of Technology",
+    "Department": "School of Psychology and Cognitive Science",
+    "Position Title": "Assistant Professor of Computational Linguistics",
+    "Lat/Long": "43.0847, -77.6746",
+    "City": "Rochester, New York",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2492",
+    "Input Tokens": "1084",
+    "Output Tokens": "186"
   }
 ];
