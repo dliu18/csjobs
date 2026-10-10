@@ -1935,5 +1935,18 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2492",
     "Input Tokens": "1084",
     "Output Tokens": "186"
+  },
+  {
+    "Posted Date": "2026-10-09",
+    "Application Deadline": "2026-11-15",
+    "Application Materials": "Cover letter; Curriculum vitae; Executive summary of past and proposed research; 2–3 research proposals; Teaching and mentoring philosophy statement; At least 3 letters of recommendation",
+    "University": "Massachusetts Institute of Technology (MIT)",
+    "Department": "Department of Chemistry and MIT Schwarzman College of Computing",
+    "Position Title": "Tenure-Track Assistant Professor in Chemistry and Computing",
+    "Lat/Long": "42.3601, -71.0942",
+    "City": "Cambridge, Massachusetts",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33019",
+    "Input Tokens": "1276",
+    "Output Tokens": "199"
   }
 ];
