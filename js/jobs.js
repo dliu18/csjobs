@@ -1948,5 +1948,44 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://academicjobsonline.org/ajo/jobs/33019",
     "Input Tokens": "1276",
     "Output Tokens": "199"
+  },
+  {
+    "Posted Date": "2026-10-12",
+    "Application Deadline": "2026-12-01",
+    "Application Materials": "Curriculum vitae; Research statement; Teaching statement; Identification of one or two top publications; At least three reference letters",
+    "University": "Cornell University",
+    "Department": "Department of Computer Science",
+    "Position Title": "Tenured and Tenure-Track Faculty",
+    "Lat/Long": "42.4534, -76.4735",
+    "City": "Ithaca, New York",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33017",
+    "Input Tokens": "1730",
+    "Output Tokens": "236"
+  },
+  {
+    "Posted Date": "2026-10-12",
+    "Application Deadline": "",
+    "Application Materials": "CV; Cover letter; Research statement; Teaching statement; References",
+    "University": "The Ohio State University",
+    "Department": "Department of Computer Science and Engineering",
+    "Position Title": "Tenure-Track Faculty Positions in Programming Languages, Foundational AI, Responsible AI & Cybersecurity, and AI World Models",
+    "Lat/Long": "39.9973, -83.0099",
+    "City": "Columbus, Ohio",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2494",
+    "Input Tokens": "766",
+    "Output Tokens": "199"
+  },
+  {
+    "Posted Date": "2026-10-12",
+    "Application Deadline": "2026-12-01",
+    "Application Materials": "Curriculum vitae; Research statement; Teaching statement; One or two selected publications; At least three reference letters",
+    "University": "Cornell University",
+    "Department": "Department of Computer Science, Cornell Ann S. Bowers College of Computing and Information Science",
+    "Position Title": "Tenured and Tenure-Track Computer Science Faculty",
+    "Lat/Long": "42.4472, -76.4849",
+    "City": "Ithaca, New York",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2493",
+    "Input Tokens": "1248",
+    "Output Tokens": "236"
   }
 ];
