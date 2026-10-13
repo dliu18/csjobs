@@ -1987,5 +1987,83 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2493",
     "Input Tokens": "1248",
     "Output Tokens": "236"
+  },
+  {
+    "Posted Date": "2026-10-13",
+    "Application Deadline": "Open until filled",
+    "Application Materials": "Curriculum vitae; Teaching statement; Research statement; At least three references",
+    "University": "Koç University",
+    "Department": "Department of Computer Science and Engineering",
+    "Position Title": "Faculty Position in Computer Engineering",
+    "Lat/Long": "41.2063, 29.0737",
+    "City": "Istanbul, Türkiye",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33061",
+    "Input Tokens": "866",
+    "Output Tokens": "446"
+  },
+  {
+    "Posted Date": "2026-10-13",
+    "Application Deadline": "2027-01-01",
+    "Application Materials": "Cover letter; Overall vision statement; Research statement; Teaching and mentoring statement; Curriculum vitae; Contact information for three professional references; AI-use disclosure",
+    "University": "University of Massachusetts Amherst",
+    "Department": "Department of Electrical & Computer Engineering",
+    "Position Title": "Assistant Professor of Power Electronics",
+    "Lat/Long": "42.3868, -72.5301",
+    "City": "Amherst, Massachusetts",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33057",
+    "Input Tokens": "2318",
+    "Output Tokens": "189"
+  },
+  {
+    "Posted Date": "2026-10-13",
+    "Application Deadline": "2026-12-01",
+    "Application Materials": "Cover letter; Curriculum vitae; Current and proposed research statement (up to 5 pages); Teaching philosophy statement (about 1 page); Mentoring statement (about 1 page); At least three letters of recommendation",
+    "University": "Massachusetts Institute of Technology (MIT)",
+    "Department": "Department of Biology and Schwarzman College of Computing",
+    "Position Title": "Tenure-Track Assistant Professor in Computational Biology",
+    "Lat/Long": "42.3601, -71.0942",
+    "City": "Cambridge, Massachusetts",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/32927",
+    "Input Tokens": "1384",
+    "Output Tokens": "206"
+  },
+  {
+    "Posted Date": "2026-10-13",
+    "Application Deadline": "2026-11-18",
+    "Application Materials": "Application materials not specified; see application portal",
+    "University": "University of California, Berkeley",
+    "Department": "Center for Computational Biology",
+    "Position Title": "Professor of Computational Biomedicine (Assistant/Associate/Full)",
+    "Lat/Long": "37.8719, -122.2585",
+    "City": "Berkeley, California",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2497",
+    "Input Tokens": "616",
+    "Output Tokens": "223"
+  },
+  {
+    "Posted Date": "2026-10-13",
+    "Application Deadline": "2026-11-30",
+    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Contact information for references",
+    "University": "San Diego State University",
+    "Department": "Department of Computer Science",
+    "Position Title": "Assistant Professor of Computer Science — Intelligent Systems and Applications",
+    "Lat/Long": "32.7757, -117.0719",
+    "City": "San Diego, California",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2496",
+    "Input Tokens": "670",
+    "Output Tokens": "200"
+  },
+  {
+    "Posted Date": "2026-10-12",
+    "Application Deadline": "Not specified",
+    "Application Materials": "Application materials as specified on the University of Memphis application website",
+    "University": "University of Memphis",
+    "Department": "Department of Computer Science",
+    "Position Title": "Tenure-Track Assistant Professor of Computer Science",
+    "Lat/Long": "35.1175, -89.9711",
+    "City": "Memphis, Tennessee",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2495",
+    "Input Tokens": "602",
+    "Output Tokens": "213"
   }
 ];
