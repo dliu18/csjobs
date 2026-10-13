@@ -196,7 +196,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-08-12",
-    "Application Deadline": "2026-10-15",
+    "Application Deadline": "2026-10-15 9:00 PM Pacific Time",
     "Application Materials": "Curriculum vitae; Job market paper; Three letters of recommendation",
     "University": "Stanford University",
     "Department": "Graduate School of Business, Operations, Information and Technology Area",
@@ -356,7 +356,7 @@ window.CSJOBS_JOBS = [
     "Application Materials": "Curriculum vitae; Cover letter; Research statement; Teaching statement; Reference letters",
     "University": "Boston University",
     "Department": "Faculty of Computing & Data Sciences",
-    "Position Title": "Tenure-Track Assistant Professor of Public Interest AI",
+    "Position Title": "Tenure-Track Assistant Professor in Human-Centered Data Science and AI",
     "Lat/Long": "42.3505, -71.1054",
     "City": "Boston, Massachusetts",
     "Listing Link": "https://academicjobsonline.org/ajo/jobs/32562",
@@ -401,19 +401,6 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2376",
     "Input Tokens": "773",
     "Output Tokens": "279"
-  },
-  {
-    "Posted Date": "2026-09-08",
-    "Application Deadline": "2026-10-22 11:59 PM Eastern Time (first consideration; final deadline November 28, 2026)",
-    "Application Materials": "Online application materials; specific documents not specified",
-    "University": "Stony Brook University",
-    "Department": "Department of Biomedical Informatics",
-    "Position Title": "Clinical Data Scientist, Assistant/Associate Professor (Tenure-Track)",
-    "Lat/Long": "40.9149, -73.1234",
-    "City": "Stony Brook, New York",
-    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2413",
-    "Input Tokens": "1632",
-    "Output Tokens": "242"
   },
   {
     "Posted Date": "2026-09-03",
@@ -507,45 +494,6 @@ window.CSJOBS_JOBS = [
     "Output Tokens": "168"
   },
   {
-    "Posted Date": "2026-08-21",
-    "Application Deadline": "2026-09-30 (closing date)",
-    "Application Materials": "",
-    "University": "University of Bath",
-    "Department": "Department of Computer Science",
-    "Position Title": "Lecturer / Senior Lecturer / Reader in Cyber Security",
-    "Lat/Long": "51.3781, -2.3274",
-    "City": "Bath, England, United Kingdom",
-    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2397",
-    "Input Tokens": "566",
-    "Output Tokens": "162"
-  },
-  {
-    "Posted Date": "2026-08-21",
-    "Application Deadline": "2026-10-16",
-    "Application Materials": "Application submitted through the online portal; Curriculum vitae; Cover letter; Research statement; Teaching statement; References",
-    "University": "New Mexico State University",
-    "Department": "AI Institute",
-    "Position Title": "Assistant Professor of Artificial Intelligence Education",
-    "Lat/Long": "32.2828, -106.7486",
-    "City": "Las Cruces, New Mexico",
-    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2396",
-    "Input Tokens": "979",
-    "Output Tokens": "264"
-  },
-  {
-    "Posted Date": "2026-08-20",
-    "Application Deadline": "2026-10-12",
-    "Application Materials": "Cover letter; Curriculum vitae; Teaching statement; Research statement; Three letters of recommendation",
-    "University": "Reed College",
-    "Department": "Department of Computer Science",
-    "Position Title": "Assistant Professor in Computer Systems",
-    "Lat/Long": "45.4801, -122.6295",
-    "City": "Portland, Oregon",
-    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2394",
-    "Input Tokens": "959",
-    "Output Tokens": "162"
-  },
-  {
     "Posted Date": "2026-08-20",
     "Application Deadline": "2026-10-02",
     "Application Materials": "Cover letter; Curriculum vitae; Undergraduate and graduate transcripts; Teaching statement; Research statement; Contact information for three professional references",
@@ -586,7 +534,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-08-18",
-    "Application Deadline": "Open until filled; no review start date specified",
+    "Application Deadline": "Review begins immediately; open until filled (no calendar deadline specified)",
     "Application Materials": "",
     "University": "University of Iowa",
     "Department": "Department of Business Analytics, Tippie College of Business",
@@ -596,45 +544,6 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2389",
     "Input Tokens": "604",
     "Output Tokens": "162"
-  },
-  {
-    "Posted Date": "2026-08-13",
-    "Application Deadline": "2026-10-12",
-    "Application Materials": "Cover letter; Curriculum vitae; Statement responding to the Hillsdale College Mission Statement; Teaching statement; Research statement; Graduate transcript; At least three letters of recommendation, including at least one addressing teaching ability",
-    "University": "Hillsdale College",
-    "Department": "Department of Mathematics and Computer Science",
-    "Position Title": "Tenure-Track Assistant or Associate Professor of Computer Science",
-    "Lat/Long": "41.9260, -84.6320",
-    "City": "Hillsdale, Michigan",
-    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2386",
-    "Input Tokens": "857",
-    "Output Tokens": "231"
-  },
-  {
-    "Posted Date": "2026-08-12",
-    "Application Deadline": "2026-10-15 9:00 PM Pacific Time",
-    "Application Materials": "Curriculum vitae; Job market paper; Three letters of recommendation",
-    "University": "Stanford University",
-    "Department": "Operations, Information and Technology, Graduate School of Business",
-    "Position Title": "Assistant Professor of Operations, Information and Technology",
-    "Lat/Long": "37.4275, -122.1697",
-    "City": "Stanford, California",
-    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2385",
-    "Input Tokens": "1002",
-    "Output Tokens": "208"
-  },
-  {
-    "Posted Date": "2026-08-10",
-    "Application Deadline": "2026-10-01",
-    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Diversity, equity, and inclusion statement; Contact information for references",
-    "University": "Bowdoin College",
-    "Department": "Department of Computer Science",
-    "Position Title": "Tenure-Track Assistant Professor of Computer Science",
-    "Lat/Long": "43.9067, -69.9634",
-    "City": "Brunswick, Maine",
-    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2381",
-    "Input Tokens": "749",
-    "Output Tokens": "244"
   },
   {
     "Posted Date": "2026-07-30",
@@ -648,19 +557,6 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2375",
     "Input Tokens": "688",
     "Output Tokens": "255"
-  },
-  {
-    "Posted Date": "2026-07-28",
-    "Application Deadline": "2026-10-01",
-    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Reference letters",
-    "University": "Duke University",
-    "Department": "Biochemistry; Cell Biology; Integrative Immunobiology; Neurobiology; Pharmacology & Cancer Biology",
-    "Position Title": "Assistant Professor in AI/ML for Biology",
-    "Lat/Long": "36.0014, -78.9382",
-    "City": "Durham, North Carolina",
-    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2373",
-    "Input Tokens": "953",
-    "Output Tokens": "250"
   },
   {
     "Posted Date": "2026-07-28",
@@ -726,19 +622,6 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2384",
     "Input Tokens": "618",
     "Output Tokens": "323"
-  },
-  {
-    "Posted Date": "2026-08-11",
-    "Application Deadline": "2026-09-30",
-    "Application Materials": "See full application instructions at the linked application portal",
-    "University": "Columbia University",
-    "Department": "School of International and Public Affairs",
-    "Position Title": "Assistant Professor of AI and Data Science for Public Policy",
-    "Lat/Long": "40.8075, -73.9626",
-    "City": "New York, New York",
-    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2383",
-    "Input Tokens": "581",
-    "Output Tokens": "205"
   },
   {
     "Posted Date": "2026-08-07",
@@ -871,19 +754,6 @@ window.CSJOBS_JOBS = [
     "Output Tokens": "295"
   },
   {
-    "Posted Date": "2026-09-11",
-    "Application Deadline": "2026-10-15 (application deadline; applications may be reviewed before closing)",
-    "Application Materials": "Curriculum vitae; Cover letter; Teaching statement; Equity, diversity, and inclusion statement; Names and contact information for references",
-    "University": "University of British Columbia",
-    "Department": "Department of Computer Science",
-    "Position Title": "Assistant Professor of Teaching in Systems",
-    "Lat/Long": "49.2606, -123.2460",
-    "City": "Vancouver, British Columbia, Canada",
-    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2421",
-    "Input Tokens": "615",
-    "Output Tokens": "243"
-  },
-  {
     "Posted Date": "2026-09-14",
     "Application Deadline": "2026-10-31 (review begins; open until filled)",
     "Application Materials": "Application submitted through the Missouri S&T careers portal",
@@ -999,19 +869,6 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2429",
     "Input Tokens": "1126",
     "Output Tokens": "161"
-  },
-  {
-    "Posted Date": "2026-09-16",
-    "Application Deadline": "2026-10-15",
-    "Application Materials": "Curriculum vitae; Cover letter; Teaching statement; Research statement; Contact information for references",
-    "University": "Bates College",
-    "Department": "Program in Digital and Computational Studies",
-    "Position Title": "Open-Rank Tenure-Line Professor of Computer Science",
-    "Lat/Long": "44.1057, -70.2036",
-    "City": "Lewiston, Maine",
-    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2428",
-    "Input Tokens": "634",
-    "Output Tokens": "227"
   },
   {
     "Posted Date": "2026-09-16",
@@ -1141,19 +998,6 @@ window.CSJOBS_JOBS = [
     "City": "Stony Brook, New York",
     "Listing Link": "https://academicjobsonline.org/ajo/jobs/32810",
     "Input Tokens": "1388",
-    "Output Tokens": "239"
-  },
-  {
-    "Posted Date": "2026-09-22",
-    "Application Deadline": "2026-12-11 (priority application date; open until filled)",
-    "Application Materials": "Curriculum vitae; Cover letter; Research statement; Teaching statement; Contact information for references",
-    "University": "University of Minnesota Twin Cities",
-    "Department": "School of Physics and Astronomy",
-    "Position Title": "Assistant Professor of Physics",
-    "Lat/Long": "44.9740, -93.2277",
-    "City": "Minneapolis, Minnesota",
-    "Listing Link": "https://academicjobsonline.org/ajo/jobs/32796",
-    "Input Tokens": "593",
     "Output Tokens": "239"
   },
   {
@@ -1430,19 +1274,6 @@ window.CSJOBS_JOBS = [
     "Output Tokens": "215"
   },
   {
-    "Posted Date": "2026-09-28",
-    "Application Deadline": "2026-10-31",
-    "Application Materials": "Application materials not specified in the listing",
-    "University": "Boston University",
-    "Department": "Faculty of Computing & Data Sciences",
-    "Position Title": "Assistant Professor in Human-Centered Data Science and AI",
-    "Lat/Long": "42.3505, -71.1054",
-    "City": "Boston, Massachusetts",
-    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2462",
-    "Input Tokens": "675",
-    "Output Tokens": "203"
-  },
-  {
     "Posted Date": "2026-09-30",
     "Application Deadline": "2026-11-01 (priority consideration; open until filled)",
     "Application Materials": "See application portal for required materials",
@@ -1623,19 +1454,6 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2481",
     "Input Tokens": "787",
     "Output Tokens": "198"
-  },
-  {
-    "Posted Date": "2026-10-02",
-    "Application Deadline": "2026-11-09",
-    "Application Materials": "Application materials not specified in the listing; see the application portal",
-    "University": "University of California, Berkeley",
-    "Department": "Department of Electrical Engineering & Computer Sciences and Center for Computational Biology",
-    "Position Title": "Assistant Professor of AI for Biology",
-    "Lat/Long": "37.8719, -122.2585",
-    "City": "Berkeley, California",
-    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2480",
-    "Input Tokens": "631",
-    "Output Tokens": "209"
   },
   {
     "Posted Date": "2026-10-02",
@@ -1834,7 +1652,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-07",
-    "Application Deadline": "Not specified",
+    "Application Deadline": "2026-11-06 (CS full consideration; Quantum Computing December 1, 2026; open until filled)",
     "Application Materials": "Application materials as specified in the online application instructions",
     "University": "Northwestern University",
     "Department": "Computer Science; Electrical and Computer Engineering (for the joint quantum computing appointment)",
@@ -1847,7 +1665,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-07",
-    "Application Deadline": "Not specified",
+    "Application Deadline": "2026-12-01 (full consideration; open until filled)",
     "Application Materials": "See application website for required materials",
     "University": "Oklahoma State University",
     "Department": "Department of Computer Science",
@@ -1912,7 +1730,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-09",
-    "Application Deadline": "Immediately; full consideration by December 1, 2026 (closing January 15, 2027)",
+    "Application Deadline": "2026-12-01 (full consideration; review begins immediately; closing January 15, 2027)",
     "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Service statement; Three publications; At least three reference letters",
     "University": "Cornell University",
     "Department": "School of Electrical and Computer Engineering",
@@ -1964,7 +1782,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-12",
-    "Application Deadline": "",
+    "Application Deadline": "2026-10-16 (AI World Models review begins; PL/SE, Foundational AI, and Responsible AI & Cybersecurity review begins November 1, 2026; open until filled)",
     "Application Materials": "CV; Cover letter; Research statement; Teaching statement; References",
     "University": "The Ohio State University",
     "Department": "Department of Computer Science and Engineering",
@@ -1976,21 +1794,8 @@ window.CSJOBS_JOBS = [
     "Output Tokens": "199"
   },
   {
-    "Posted Date": "2026-10-12",
-    "Application Deadline": "2026-12-01",
-    "Application Materials": "Curriculum vitae; Research statement; Teaching statement; One or two selected publications; At least three reference letters",
-    "University": "Cornell University",
-    "Department": "Department of Computer Science, Cornell Ann S. Bowers College of Computing and Information Science",
-    "Position Title": "Tenured and Tenure-Track Computer Science Faculty",
-    "Lat/Long": "42.4472, -76.4849",
-    "City": "Ithaca, New York",
-    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2493",
-    "Input Tokens": "1248",
-    "Output Tokens": "236"
-  },
-  {
     "Posted Date": "2026-10-13",
-    "Application Deadline": "Open until filled",
+    "Application Deadline": "2026-12-31 (AJO application deadline; description says evaluation continues until filled)",
     "Application Materials": "Curriculum vitae; Teaching statement; Research statement; At least three references",
     "University": "Koç University",
     "Department": "Department of Computer Science and Engineering",
@@ -2055,7 +1860,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-12",
-    "Application Deadline": "Not specified",
+    "Application Deadline": "2026-11-30 (screening begins; applications accepted until search concludes)",
     "Application Materials": "Application materials as specified on the University of Memphis application website",
     "University": "University of Memphis",
     "Department": "Department of Computer Science",
