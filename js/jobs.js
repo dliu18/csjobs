@@ -1870,5 +1870,57 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2495",
     "Input Tokens": "602",
     "Output Tokens": "213"
+  },
+  {
+    "Posted Date": "October 13, 2026",
+    "Application Deadline": "November 18, 2026",
+    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching and mentoring statement; Three significant publications with significance statements and PDF links; Authorization to Release Information form; Three letters of recommendation (Assistant Professor applicants) or contact information for three references (Associate/Full Professor applicants)",
+    "University": "University of California, Berkeley",
+    "Department": "Center for Computational Biology, College of Computing, Data Science, and Society",
+    "Position Title": "Assistant/Associate/Full Professor of Computational Biomedicine",
+    "Lat/Long": "37.8719, -122.2585",
+    "City": "Berkeley, California",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33065",
+    "Input Tokens": "3027",
+    "Output Tokens": "224"
+  },
+  {
+    "Posted Date": "2026-10-14",
+    "Application Deadline": "Open until filled; review begins immediately",
+    "Application Materials": "Online application materials; specific documents not specified",
+    "University": "University of Missouri",
+    "Department": "Department of Electrical Engineering and Computer Science (EECS) and Institute for Data Science and Informatics",
+    "Position Title": "Director, Quantum Innovation Center; Associate/Full Professor",
+    "Lat/Long": "38.9404, -92.3277",
+    "City": "Columbia, Missouri",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2500",
+    "Input Tokens": "825",
+    "Output Tokens": "314"
+  },
+  {
+    "Posted Date": "2026-10-13",
+    "Application Deadline": "2026-11-01",
+    "Application Materials": "Curriculum vitae; Cover letter; Research statement; Teaching and mentoring statement; References",
+    "University": "University of Michigan",
+    "Department": "Robotics Department, College of Engineering",
+    "Position Title": "Assistant, Associate, or Full Professor in Human-Centered Embodied AI",
+    "Lat/Long": "42.2780, -83.7382",
+    "City": "Ann Arbor, Michigan",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2499",
+    "Input Tokens": "1236",
+    "Output Tokens": "316"
+  },
+  {
+    "Posted Date": "2026-10-13",
+    "Application Deadline": "2026-10-13 (review begins immediately; open until filled)",
+    "Application Materials": "Cover letter; Curriculum vitae; Teaching statement; Research statement; Diversity statement; Contact information for three references",
+    "University": "Binghamton University (SUNY)",
+    "Department": "School of Computing",
+    "Position Title": "Assistant/Associate Professor in AI and Society",
+    "Lat/Long": "42.0898, -75.9690",
+    "City": "Binghamton, New York",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2498",
+    "Input Tokens": "844",
+    "Output Tokens": "277"
   }
 ];
