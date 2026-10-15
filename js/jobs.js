@@ -1922,5 +1922,57 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2498",
     "Input Tokens": "844",
     "Output Tokens": "277"
+  },
+  {
+    "Posted Date": "2026-10-15",
+    "Application Deadline": "2026-12-15",
+    "Application Materials": "Cover letter; Curriculum vitae; Publication list; Research statement, including expected impact; Teaching statement; Names and contact information for 3 references; Three reference letters",
+    "University": "Massachusetts Institute of Technology",
+    "Department": "Department of Biological Engineering and Institute for Data, Systems, and Society",
+    "Position Title": "Assistant Professor of Biological Engineering and Data Science, Machine Learning, and AI",
+    "Lat/Long": "42.3601, -71.0942",
+    "City": "Cambridge, Massachusetts",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33095",
+    "Input Tokens": "1147",
+    "Output Tokens": "205"
+  },
+  {
+    "Posted Date": "October 15, 2026",
+    "Application Deadline": "October 28, 2026",
+    "Application Materials": "Letter of interest; Curriculum vitae; Up to three research papers or representative scholarship samples; Three recommendation letters; Teaching record and evidence of teaching effectiveness; Optional supporting documents, such as curriculum development materials",
+    "University": "Cornell University",
+    "Department": "Operations, Technology, and Information Management (OTIM), Charles H. Dyson School of Applied Economics and Management",
+    "Position Title": "Assistant or Untenured Associate Professor of Operations, Technology, and Information Management",
+    "Lat/Long": "42.4473, -76.4849",
+    "City": "Ithaca, New York",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33091",
+    "Input Tokens": "1614",
+    "Output Tokens": "479"
+  },
+  {
+    "Posted Date": "October 15, 2026",
+    "Application Deadline": "Not specified",
+    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Names and contact information for references",
+    "University": "Massachusetts Institute of Technology",
+    "Department": "Department of Biological Engineering and Institute for Data, Systems, and Society",
+    "Position Title": "Assistant Professor of Biological Engineering and Data Science (Machine Learning and AI)",
+    "Lat/Long": "42.3601, -71.0942",
+    "City": "Cambridge, Massachusetts",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2506",
+    "Input Tokens": "601",
+    "Output Tokens": "267"
+  },
+  {
+    "Posted Date": "2026-10-15",
+    "Application Deadline": "Not specified",
+    "Application Materials": "Curriculum vitae; Cover letter indicating desired rank; Research statement; Teaching statement; Names and contact information for three references",
+    "University": "University of Cincinnati",
+    "Department": "Department of Computer Science",
+    "Position Title": "Open-Rank Tenured or Tenure-Track Professor",
+    "Lat/Long": "39.1329, -84.5150",
+    "City": "Cincinnati, Ohio",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2505",
+    "Input Tokens": "642",
+    "Output Tokens": "179"
   }
 ];
