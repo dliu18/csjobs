@@ -2117,5 +2117,57 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2507",
     "Input Tokens": "733",
     "Output Tokens": "252"
+  },
+  {
+    "Posted Date": "2026-10-19",
+    "Application Deadline": "2027-01-03 (full consideration; AJO deadline: 2027-01-15 23:59:59 EST)",
+    "Application Materials": "Cover letter; Teaching statement; Research statement; Curriculum vitae; Names and contact information for four references",
+    "University": "The Pennsylvania State University",
+    "Department": "Department of Computer Science and Engineering",
+    "Position Title": "Assistant, Associate, or Full Professor in Quantum Computing",
+    "Lat/Long": "40.7982, -77.8599",
+    "City": "State College, Pennsylvania",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33137",
+    "Input Tokens": "1523",
+    "Output Tokens": "187"
+  },
+  {
+    "Posted Date": "2026-10-19",
+    "Application Deadline": "2026-12-15",
+    "Application Materials": "Curriculum vitae; Cover letter; Research statement; Teaching statement; Diversity, equity, and inclusion statement; References",
+    "University": "North Carolina State University",
+    "Department": "Department of Computer Science",
+    "Position Title": "Assistant/Associate Professor",
+    "Lat/Long": "35.7847, -78.6821",
+    "City": "Raleigh, North Carolina",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2522",
+    "Input Tokens": "784",
+    "Output Tokens": "254"
+  },
+  {
+    "Posted Date": "2026-10-19",
+    "Application Deadline": "2026-11-02",
+    "Application Materials": "Curriculum vitae; Cover letter; Research statement; Teaching statement; References",
+    "University": "Barnard College, Columbia University",
+    "Department": "Department of Computer Science and Cognitive Science Program",
+    "Position Title": "Tenure-Track Assistant Professor of Cognitive Science and Computer Science",
+    "Lat/Long": "40.8090, -73.9630",
+    "City": "New York, New York",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2521",
+    "Input Tokens": "692",
+    "Output Tokens": "277"
+  },
+  {
+    "Posted Date": "2026-10-19",
+    "Application Deadline": "2026-11-13 (review begins)",
+    "Application Materials": "Curriculum vitae; Cover letter; Research statement; Teaching statement; References",
+    "University": "Texas Christian University",
+    "Department": "Department of Computer Science",
+    "Position Title": "Tenure-Track Assistant Professor of Computer Science",
+    "Lat/Long": "32.7098, -97.3625",
+    "City": "Fort Worth, Texas",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2520",
+    "Input Tokens": "607",
+    "Output Tokens": "234"
   }
 ];
