@@ -2130,5 +2130,70 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2520",
     "Input Tokens": "607",
     "Output Tokens": "234"
+  },
+  {
+    "Posted Date": "2026-10-19",
+    "Application Deadline": "2026-11-15",
+    "Application Materials": "Cover letter; Curriculum vitae; Three reference letters; Research statement; Teaching statement",
+    "University": "University of Washington",
+    "Department": "Department of Electrical & Computer Engineering",
+    "Position Title": "Assistant or Associate Professor, Tenure Track",
+    "Lat/Long": "47.6553, -122.3035",
+    "City": "Seattle, Washington",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33147",
+    "Input Tokens": "1159",
+    "Output Tokens": "163"
+  },
+  {
+    "Posted Date": "2026-10-19",
+    "Application Deadline": "2026-11-15",
+    "Application Materials": "Cover letter; Curriculum vitae; Three reference letters; Research statement; Teaching statement",
+    "University": "University of Washington",
+    "Department": "Electrical & Computer Engineering",
+    "Position Title": "Assistant Professor (Tenure Track)",
+    "Lat/Long": "47.6553, -122.3035",
+    "City": "Seattle, Washington",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33146",
+    "Input Tokens": "1144",
+    "Output Tokens": "159"
+  },
+  {
+    "Posted Date": "2026-10-20",
+    "Application Deadline": "2026-11-10",
+    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Diversity, equity, and inclusion statement; Three reference letters",
+    "University": "University of California, Berkeley",
+    "Department": "Department of Statistics and Department of Electrical Engineering and Computer Sciences (EECS)",
+    "Position Title": "Assistant Professor in Statistics and Computer Science (Machine Learning and AI)",
+    "Lat/Long": "37.8719, -122.2585",
+    "City": "Berkeley, California",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2525",
+    "Input Tokens": "601",
+    "Output Tokens": "255"
+  },
+  {
+    "Posted Date": "2026-10-20",
+    "Application Deadline": "2026-11-01",
+    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Contact information for references",
+    "University": "The Ohio State University",
+    "Department": "Department of Integrated Systems Engineering and Department of Mechanical and Aerospace Engineering",
+    "Position Title": "Tenure-Track Assistant/Early Associate Professor in AI Applications in Advanced Manufacturing",
+    "Lat/Long": "40.0067, -83.0305",
+    "City": "Columbus, Ohio",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2524",
+    "Input Tokens": "732",
+    "Output Tokens": "217"
+  },
+  {
+    "Posted Date": "2026-10-20",
+    "Application Deadline": "2026-11-15",
+    "Application Materials": "Cover letter; Curriculum vitae; Research plan; Teaching statement; Contact information for three professional references; Statement on engagement with and commitment to the University of Notre Dame mission",
+    "University": "University of Notre Dame",
+    "Department": "Department of Computer Science and Engineering",
+    "Position Title": "Tenure-Track Faculty in Ethics and Computing (Open Rank)",
+    "Lat/Long": "41.7002, -86.2379",
+    "City": "Notre Dame, Indiana",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2523",
+    "Input Tokens": "855",
+    "Output Tokens": "228"
   }
 ];
