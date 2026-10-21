@@ -2195,5 +2195,18 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2523",
     "Input Tokens": "855",
     "Output Tokens": "228"
+  },
+  {
+    "Posted Date": "2026-10-19",
+    "Application Deadline": "2026-12-31 (best consideration; open until filled)",
+    "Application Materials": "Cover letter stating research area and interest in any joint appointment; Curriculum vitae; Research statement; Teaching statement; Names and email addresses of at least four references (requested after initial application)",
+    "University": "University of Maryland, College Park",
+    "Department": "Department of Computer Science",
+    "Position Title": "Assistant Professor, Associate Professor, Professor (Tenure-Track)",
+    "Lat/Long": "38.9897, -76.9378",
+    "City": "College Park, Maryland",
+    "Listing Link": "https://umd.wd1.myworkdayjobs.com/en-US/UMCP/details/Assistant-Professor--Associate-Professor--Professor_JR105221",
+    "Input Tokens": "0",
+    "Output Tokens": "0"
   }
 ];
