@@ -2208,5 +2208,18 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://umd.wd1.myworkdayjobs.com/en-US/UMCP/details/Assistant-Professor--Associate-Professor--Professor_JR105221",
     "Input Tokens": "0",
     "Output Tokens": "0"
+  },
+  {
+    "Posted Date": "2026-10-21",
+    "Application Deadline": "2026-12-15 23:59 (full consideration; open until filled; posting open through 2027-06-30)",
+    "Application Materials": "Letter of application; Curriculum vitae; Teaching and mentoring statement; Research statement; Three publications; Reference letters via Academic Jobs Online; Must apply through BOTH Jobs at UW (JR10016108) and Academic Jobs Online (https://academicjobsonline.org/ajo/jobs/33161)",
+    "University": "University of Wisconsin–Madison",
+    "Department": "Department of Computer Sciences",
+    "Position Title": "Assistant / Associate / Full Professor of Computer Sciences (Tenure-Track / Tenured)",
+    "Lat/Long": "43.0766, -89.4125",
+    "City": "Madison, Wisconsin",
+    "Listing Link": "https://jobs.wisc.edu/jobs/assistant-associate-full-professor-of-computer-sciences-madison-wisconsin-united-states",
+    "Input Tokens": "0",
+    "Output Tokens": "0"
   }
 ];
