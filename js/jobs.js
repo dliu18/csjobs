@@ -2221,5 +2221,31 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://jobs.wisc.edu/jobs/assistant-associate-full-professor-of-computer-sciences-madison-wisconsin-united-states",
     "Input Tokens": "0",
     "Output Tokens": "0"
+  },
+  {
+    "Posted Date": "2026-10-20",
+    "Application Deadline": "December 15, 2026",
+    "Application Materials": "Curriculum vitae; Cover letter; Research statement; Teaching and mentoring statement or supporting teaching documentation; Reference letters",
+    "University": "University of Wisconsin–Madison",
+    "Department": "Department of Computer Sciences",
+    "Position Title": "Assistant, Associate, or Full Professor of Computer Sciences",
+    "Lat/Long": "43.0766, -89.4125",
+    "City": "Madison, Wisconsin",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33161",
+    "Input Tokens": "1645",
+    "Output Tokens": "311"
+  },
+  {
+    "Posted Date": "2026-10-22",
+    "Application Deadline": "2026-12-01",
+    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Contact information for references",
+    "University": "Lehigh University",
+    "Department": "Department of Computer Science and Engineering",
+    "Position Title": "Tenure-Track Assistant or Associate Professor in Artificial Intelligence",
+    "Lat/Long": "40.6067, -75.3782",
+    "City": "Bethlehem, Pennsylvania",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2528",
+    "Input Tokens": "624",
+    "Output Tokens": "188"
   }
 ];
