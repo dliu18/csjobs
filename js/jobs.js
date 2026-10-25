@@ -2338,5 +2338,18 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2530",
     "Input Tokens": "729",
     "Output Tokens": "216"
+  },
+  {
+    "Posted Date": "2026-10-24",
+    "Application Deadline": "2026-11-15",
+    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Three recommendation letters; At least three representative publications; Teaching statement",
+    "University": "New York University",
+    "Department": "Department of Psychology and Center for Neural Science, Arts & Science",
+    "Position Title": "Assistant Professor in Brain and Behavior",
+    "Lat/Long": "40.7295, -73.9965",
+    "City": "New York, New York",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2538",
+    "Input Tokens": "1225",
+    "Output Tokens": "180"
   }
 ];
