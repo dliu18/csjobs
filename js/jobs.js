@@ -1890,7 +1890,7 @@ window.CSJOBS_JOBS = [
     "Application Materials": "Cover letter; Curriculum vitae; Teaching statement; Research statement; Diversity statement; Contact information for three references",
     "University": "Binghamton University (SUNY)",
     "Department": "School of Computing",
-    "Position Title": "Assistant/Associate Professor in AI and Society",
+    "Position Title": "Associate or Full Professor in AI and Society",
     "Lat/Long": "42.0898, -75.9690",
     "City": "Binghamton, New York",
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2498",
@@ -1964,7 +1964,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-16",
-    "Application Deadline": "2026-12-01",
+    "Application Deadline": "2026-12-01 (initial review; rolling review afterward; open until filled)",
     "Application Materials": "Cover letter; Curriculum vitae with full publication list and funding history; Research statement; Teaching statement; Contact details for 3–5 professional references",
     "University": "Koç University",
     "Department": "Office of the Vice President for Academic Affairs; interdisciplinary Artificial Intelligence and AI-X",
@@ -2185,7 +2185,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-20",
-    "Application Deadline": "2026-11-15",
+    "Application Deadline": "2026-11-15 (full consideration; applications accepted through 2026-12-15)",
     "Application Materials": "Cover letter; Curriculum vitae; Research plan; Teaching statement; Contact information for three professional references; Statement on engagement with and commitment to the University of Notre Dame mission",
     "University": "University of Notre Dame",
     "Department": "Department of Computer Science and Engineering",
@@ -2237,7 +2237,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-23",
-    "Application Deadline": "2027-01-08",
+    "Application Deadline": "2027-01-08 (full consideration; all application materials and reference letters due)",
     "Application Materials": "Curriculum vitae; Research statement; Teaching statement; Equity, diversity, inclusion, and belonging statement or discussion; One recent peer-reviewed publication; Cover letter; Three confidential reference letters",
     "University": "University of Alberta",
     "Department": "Department of Computing Science",
@@ -2250,7 +2250,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-23",
-    "Application Deadline": "2027-01-08",
+    "Application Deadline": "2027-01-08 (full consideration; all application materials and reference letters due)",
     "Application Materials": "Curriculum vitae; Research statement; Teaching statement; Equity, diversity, and inclusion/access and belonging statement; One recent peer-reviewed publication; Cover letter; Three confidential reference letters",
     "University": "University of Alberta",
     "Department": "Department of Computing Science",
@@ -2263,7 +2263,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-23",
-    "Application Deadline": "November 15, 2026",
+    "Application Deadline": "2026-11-15 (review begins; AJO deadline 23:59:59; narrative full consideration 2026-12-01; rolling review)",
     "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Up to three sample publications; Three reference letters",
     "University": "Boston University",
     "Department": "Department of Computer Science",
@@ -2276,7 +2276,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-23",
-    "Application Deadline": "Immediately; until filled",
+    "Application Deadline": "Review begins immediately; open until filled (no calendar deadline specified)",
     "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Names and contact information for three references",
     "University": "University of Houston",
     "Department": "Department of Computer Science",
@@ -2302,7 +2302,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-22",
-    "Application Deadline": "Not specified",
+    "Application Deadline": "2026-11-05 23:59 Pacific Time (HCI portal full consideration; HCI narrative instead says 2026-12-05; AI/ML and Systems full consideration 2026-12-01 23:59 Pacific Time; all close 2027-04-01 23:59 Pacific Time)",
     "Application Materials": "Not specified in listing",
     "University": "University of California, Irvine",
     "Department": "Donald Bren School of Information and Computer Sciences; Departments of Informatics and Computer Science",
@@ -2315,7 +2315,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-22",
-    "Application Deadline": "2026-11-08",
+    "Application Deadline": "2026-11-08 (review begins; full consideration 2026-12-06)",
     "Application Materials": "Curriculum vitae; Cover letter; Research statement; Teaching statement; References",
     "University": "California Institute of Technology",
     "Department": "Electrical Engineering",
@@ -2328,7 +2328,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-22",
-    "Application Deadline": "Not specified",
+    "Application Deadline": "2026-11-01 (review begins; open until filled)",
     "Application Materials": "Not specified in the listing; see application portal",
     "University": "Hunter College, City University of New York (CUNY)",
     "Department": "Department of Computer Science",
@@ -2341,7 +2341,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-24",
-    "Application Deadline": "2026-11-15",
+    "Application Deadline": "2026-11-15 (review begins)",
     "Application Materials": "Cover letter; Curriculum vitae; Research statement; Three recommendation letters; At least three representative publications; Teaching statement",
     "University": "New York University",
     "Department": "Department of Psychology and Center for Neural Science, Arts & Science",
