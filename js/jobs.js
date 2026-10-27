@@ -26,19 +26,6 @@ window.CSJOBS_JOBS = [
     "Output Tokens": "180"
   },
   {
-    "Posted Date": "2026-08-26",
-    "Application Deadline": "2026-09-30",
-    "Application Materials": "CV; Cover letter; Research statement; Teaching statement",
-    "University": "University of Bath",
-    "Department": "Department of Computer Science",
-    "Position Title": "Lecturer / Senior Lecturer / Reader in Cyber Security",
-    "Lat/Long": "51.3781, -2.3274",
-    "City": "Bath, Somerset, United Kingdom",
-    "Listing Link": "https://academicjobsonline.org/ajo/jobs/32517",
-    "Input Tokens": "1818",
-    "Output Tokens": "266"
-  },
-  {
     "Posted Date": "2026-08-23",
     "Application Deadline": "2026-11-20 23:59 Eastern Time (latest submission; review is rolling)",
     "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Service and/or diversity statement; Contact information for 3–4 references",
@@ -232,32 +219,6 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://academicjobsonline.org/ajo/jobs/32307",
     "Input Tokens": "1391",
     "Output Tokens": "203"
-  },
-  {
-    "Posted Date": "2026-07-01",
-    "Application Deadline": "2026-09-30",
-    "Application Materials": "Cover letter; Curriculum vitae; Publication list; Research statement; Teaching statement; Leadership statement; Descriptions of three most important achievements; Certificate of highest degree",
-    "University": "ETH Zurich",
-    "Department": "Department of Computer Science and Department of Mathematics",
-    "Position Title": "Professors of Artificial Intelligence and Mathematical and Computational Foundations",
-    "Lat/Long": "47.3769, 8.5476",
-    "City": "Heilbronn, Baden-Württemberg, Germany",
-    "Listing Link": "https://academicjobsonline.org/ajo/jobs/32272",
-    "Input Tokens": "922",
-    "Output Tokens": "305"
-  },
-  {
-    "Posted Date": "2026-07-01",
-    "Application Deadline": "2026-09-30",
-    "Application Materials": "Cover letter addressed to the President of ETH Zurich; Curriculum vitae; Publication list; Research statement; Teaching statement; Leadership statement; Descriptions of three most important achievements; Certificate of highest degree",
-    "University": "ETH Zurich",
-    "Department": "Department of Computer Science (D-INFK)",
-    "Position Title": "Professor of Generative AI in Visual Computing",
-    "Lat/Long": "49.1427, 9.2109",
-    "City": "Heilbronn, Baden-Württemberg, Germany",
-    "Listing Link": "https://academicjobsonline.org/ajo/jobs/32271",
-    "Input Tokens": "968",
-    "Output Tokens": "287"
   },
   {
     "Posted Date": "2026-07-01",
@@ -1053,32 +1014,6 @@ window.CSJOBS_JOBS = [
     "Output Tokens": "342"
   },
   {
-    "Posted Date": "2026-09-24",
-    "Application Deadline": "2026-11-01",
-    "Application Materials": "Cover letter; CV with publication list; Research statement; Teaching statement; Names and contact information for 3–5 references",
-    "University": "EPFL (École polytechnique fédérale de Lausanne)",
-    "Department": "School of Computer and Communication Sciences",
-    "Position Title": "Tenure-Track Assistant Professor in Security and Privacy",
-    "Lat/Long": "46.5197, 6.6323",
-    "City": "Lausanne, Vaud, Switzerland",
-    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2451",
-    "Input Tokens": "742",
-    "Output Tokens": "202"
-  },
-  {
-    "Posted Date": "2026-09-24",
-    "Application Deadline": "2026-11-01",
-    "Application Materials": "Cover letter; Curriculum vitae with publication list; Research statement; Teaching statement; Contact information for 3–5 references for tenure-track assistant professor applicants or 5–7 references for associate/full professor applicants",
-    "University": "École polytechnique fédérale de Lausanne (EPFL)",
-    "Department": "School of Computer and Communication Sciences",
-    "Position Title": "Faculty Positions in Computer and Communication Sciences",
-    "Lat/Long": "46.5197, 6.6323",
-    "City": "Lausanne, Vaud, Switzerland",
-    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2450",
-    "Input Tokens": "764",
-    "Output Tokens": "214"
-  },
-  {
     "Posted Date": "2026-09-25",
     "Application Deadline": "2026-11-01 (review begins; open until filled)",
     "Application Materials": "Online application; specific materials not specified",
@@ -1272,32 +1207,6 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2472",
     "Input Tokens": "609",
     "Output Tokens": "225"
-  },
-  {
-    "Posted Date": "2026-10-01",
-    "Application Deadline": "2026-11-30",
-    "Application Materials": "Curriculum vitae; Research statement; Teaching statement; Publication list and selected publications; Academic degree and doctoral certificates; References",
-    "University": "Technical University of Munich (TUM)",
-    "Department": "TUM School of Computation, Information and Technology, Department of Computer Engineering",
-    "Position Title": "Professor of Distributed Systems and Security",
-    "Lat/Long": "48.1497, 11.5679",
-    "City": "Munich, Bavaria, Germany",
-    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2470",
-    "Input Tokens": "1088",
-    "Output Tokens": "413"
-  },
-  {
-    "Posted Date": "2026-10-01",
-    "Application Deadline": "2026-11-30",
-    "Application Materials": "Curriculum vitae; Research statement; Teaching statement; Publication list and selected publications; Academic degree and doctoral certificates; Additional documents required by TUM professor application guidelines",
-    "University": "Technical University of Munich (TUM)",
-    "Department": "TUM School of Computation, Information and Technology, Department of Computer Engineering",
-    "Position Title": "Professor of Computer Architecture and Operating Systems (Tenure-Track Assistant Professor or Associate/Full Professor)",
-    "Lat/Long": "49.1420, 9.2205",
-    "City": "Heilbronn, Baden-Württemberg, Germany",
-    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2469",
-    "Input Tokens": "1111",
-    "Output Tokens": "483"
   },
   {
     "Posted Date": "2026-09-30",
@@ -1782,19 +1691,6 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-13",
-    "Application Deadline": "2026-12-31 (AJO application deadline; description says evaluation continues until filled)",
-    "Application Materials": "Curriculum vitae; Teaching statement; Research statement; At least three references",
-    "University": "Koç University",
-    "Department": "Department of Computer Science and Engineering",
-    "Position Title": "Faculty Position in Computer Engineering",
-    "Lat/Long": "41.2063, 29.0737",
-    "City": "Istanbul, Türkiye",
-    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33061",
-    "Input Tokens": "866",
-    "Output Tokens": "446"
-  },
-  {
-    "Posted Date": "2026-10-13",
     "Application Deadline": "2027-01-01 (review begins; open until search completed)",
     "Application Materials": "Cover letter; Overall vision statement; Research statement; Teaching and mentoring statement; Curriculum vitae; Contact information for three professional references; AI-use disclosure",
     "University": "University of Massachusetts Amherst",
@@ -1961,19 +1857,6 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://academicjobsonline.org/ajo/jobs/33111",
     "Input Tokens": "2781",
     "Output Tokens": "216"
-  },
-  {
-    "Posted Date": "2026-10-16",
-    "Application Deadline": "2026-12-01 (initial review; rolling review afterward; open until filled)",
-    "Application Materials": "Cover letter; Curriculum vitae with full publication list and funding history; Research statement; Teaching statement; Contact details for 3–5 professional references",
-    "University": "Koç University",
-    "Department": "Office of the Vice President for Academic Affairs; interdisciplinary Artificial Intelligence and AI-X",
-    "Position Title": "Tenure-Track Faculty Positions in Artificial Intelligence and AI-X",
-    "Lat/Long": "41.2066, 29.0729",
-    "City": "Istanbul, Türkiye",
-    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33105",
-    "Input Tokens": "1521",
-    "Output Tokens": "280"
   },
   {
     "Posted Date": "2026-10-16",
@@ -2288,19 +2171,6 @@ window.CSJOBS_JOBS = [
     "Output Tokens": "172"
   },
   {
-    "Posted Date": "2026-10-23",
-    "Application Deadline": "2026-12-01",
-    "Application Materials": "Online application through the application portal; specific documents not specified",
-    "University": "Max Planck Institutes for Informatics, Security & Privacy, and Software Systems",
-    "Department": "Computer Science MPIs",
-    "Position Title": "Tenure-Track Faculty",
-    "Lat/Long": "49.2567, 7.0417",
-    "City": "Saarbrücken, Germany",
-    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2534",
-    "Input Tokens": "917",
-    "Output Tokens": "353"
-  },
-  {
     "Posted Date": "2026-10-22",
     "Application Deadline": "2026-11-05 23:59 Pacific Time (HCI portal full consideration; HCI narrative instead says 2026-12-05; AI/ML and Systems full consideration 2026-12-01 23:59 Pacific Time; all close 2027-04-01 23:59 Pacific Time)",
     "Application Materials": "Not specified in listing",
@@ -2379,19 +2249,6 @@ window.CSJOBS_JOBS = [
     "Output Tokens": "200"
   },
   {
-    "Posted Date": "2026-10-27",
-    "Application Deadline": "2027-01-31",
-    "Application Materials": "Curriculum vitae; Research statement (up to 5 pages); Three or more letters of recommendation",
-    "University": "Institute for Computer Science, Artificial Intelligence and Technology (INSAIT)",
-    "Department": "Computer Science, Artificial Intelligence and Technology",
-    "Position Title": "Faculty Positions in Robot Learning",
-    "Lat/Long": "42.6687, 23.3729",
-    "City": "Sofia, Bulgaria",
-    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33246",
-    "Input Tokens": "1014",
-    "Output Tokens": "339"
-  },
-  {
     "Posted Date": "2026-10-26",
     "Application Deadline": "2026-12-15",
     "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Equity, diversity, and inclusion statement; Current reference letters",
@@ -2457,19 +2314,6 @@ window.CSJOBS_JOBS = [
     "Output Tokens": "205"
   },
   {
-    "Posted Date": "2026-10-27",
-    "Application Deadline": "2027-01-31",
-    "Application Materials": "Curriculum vitae; Research statement (up to 5 pages); Three or more recommendation letters",
-    "University": "Institute for Computer Science, Artificial Intelligence and Technology (INSAIT)",
-    "Department": "Computer Science, Artificial Intelligence and Technology",
-    "Position Title": "Tenure-Track and Tenured Faculty",
-    "Lat/Long": "42.6510, 23.3827",
-    "City": "Sofia, Bulgaria",
-    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2548",
-    "Input Tokens": "884",
-    "Output Tokens": "296"
-  },
-  {
     "Posted Date": "2026-10-26",
     "Application Deadline": "2026-12-01",
     "Application Materials": "Application materials as specified in the Interfolio application portal",
@@ -2520,18 +2364,5 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2540",
     "Input Tokens": "839",
     "Output Tokens": "227"
-  },
-  {
-    "Posted Date": "2026-10-26",
-    "Application Deadline": "2026-12-04",
-    "Application Materials": "Curriculum vitae; Cover letter; Research statement; Teaching statement; Documentation of qualifications; Names of references",
-    "University": "Uppsala University",
-    "Department": "Department of Information Technology",
-    "Position Title": "Assistant or Associate Professor in Computer Science (Cybersecurity)",
-    "Lat/Long": "59.8586, 17.6389",
-    "City": "Uppsala, Sweden",
-    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2539",
-    "Input Tokens": "607",
-    "Output Tokens": "206"
   }
 ];
