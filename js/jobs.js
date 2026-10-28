@@ -2364,5 +2364,44 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2540",
     "Input Tokens": "839",
     "Output Tokens": "227"
+  },
+  {
+    "Posted Date": "2026-10-28",
+    "Application Deadline": "2026-12-07",
+    "Application Materials": "Cover letter; Curriculum vitae with publication list; Research statement; Teaching statement; Names of three referees and reference letters; Diversity statement",
+    "University": "University of British Columbia",
+    "Department": "Department of Computer Science",
+    "Position Title": "Assistant Professor",
+    "Lat/Long": "49.2606, -123.2460",
+    "City": "Vancouver, British Columbia",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33220",
+    "Input Tokens": "1611",
+    "Output Tokens": "163"
+  },
+  {
+    "Posted Date": "2026-10-28",
+    "Application Deadline": "2026-12-01",
+    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Names of at least three references",
+    "University": "Cornell University",
+    "Department": "Department of Information Science",
+    "Position Title": "Tenure-track Faculty in Information Science",
+    "Lat/Long": "42.4534, -76.4735",
+    "City": "Ithaca, New York",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2555",
+    "Input Tokens": "1400",
+    "Output Tokens": "245"
+  },
+  {
+    "Posted Date": "2026-10-28",
+    "Application Deadline": "2026-12-01",
+    "Application Materials": "Cover letter; Curriculum vitae (CV); Research statement; Teaching statement; External engagement statement; Names of at least three references and reference letters",
+    "University": "Cornell University",
+    "Department": "Department of Information Science",
+    "Position Title": "Tenure-track Faculty in Information Science",
+    "Lat/Long": "40.7550, -73.9575",
+    "City": "New York, New York",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2556",
+    "Input Tokens": "1368",
+    "Output Tokens": "299"
   }
 ];
