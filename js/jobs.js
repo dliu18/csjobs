@@ -2403,5 +2403,18 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2556",
     "Input Tokens": "1368",
     "Output Tokens": "299"
+  },
+  {
+    "Posted Date": "2026-10-29",
+    "Application Deadline": "Not specified",
+    "Application Materials": "See application website for required materials",
+    "University": "City College of New York",
+    "Department": "Computer Science",
+    "Position Title": "Assistant Professor (Tenure Track)",
+    "Lat/Long": "40.8200, -73.9490",
+    "City": "New York City, New York",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2558",
+    "Input Tokens": "606",
+    "Output Tokens": "194"
   }
 ];
