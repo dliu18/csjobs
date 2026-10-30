@@ -2416,5 +2416,44 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2558",
     "Input Tokens": "606",
     "Output Tokens": "194"
+  },
+  {
+    "Posted Date": "2026-10-30",
+    "Application Deadline": "2026-11-30",
+    "Application Materials": "Cover letter; Curriculum vitae; Teaching statement or teaching portfolio; Research statement; Three letters of recommendation, including at least one addressing teaching",
+    "University": "Susquehanna University",
+    "Department": "Mathematics and Computer Science",
+    "Position Title": "Assistant Professor of Computer Science",
+    "Lat/Long": "40.7988, -76.8628",
+    "City": "Selinsgrove, Pennsylvania",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33291",
+    "Input Tokens": "836",
+    "Output Tokens": "241"
+  },
+  {
+    "Posted Date": "2026-10-30",
+    "Application Deadline": "2026-11-15",
+    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Up to three sample publications; Three reference letters",
+    "University": "Boston University",
+    "Department": "Department of Computer Science",
+    "Position Title": "Assistant Professor of Artificial Intelligence",
+    "Lat/Long": "42.3505, -71.1054",
+    "City": "Boston, Massachusetts",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2564",
+    "Input Tokens": "822",
+    "Output Tokens": "169"
+  },
+  {
+    "Posted Date": "2026-10-29",
+    "Application Deadline": "Not specified",
+    "Application Materials": "",
+    "University": "University of British Columbia",
+    "Department": "Department of Computer Science",
+    "Position Title": "Assistant Professor (Tenure-Track)",
+    "Lat/Long": "49.2606, -123.2460",
+    "City": "Vancouver, British Columbia, Canada",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2562",
+    "Input Tokens": "583",
+    "Output Tokens": "227"
   }
 ];
