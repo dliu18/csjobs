@@ -2455,5 +2455,18 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2562",
     "Input Tokens": "583",
     "Output Tokens": "227"
+  },
+  {
+    "Posted Date": "2026-10-30",
+    "Application Deadline": "Not specified",
+    "Application Materials": "Application materials as specified at https://jobs.cs.arizona.edu",
+    "University": "University of Arizona",
+    "Department": "Department of Computer Science",
+    "Position Title": "Tenure-Track Computer Science Faculty, Open Rank",
+    "Lat/Long": "32.2319, -110.9501",
+    "City": "Tucson, Arizona",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2565",
+    "Input Tokens": "1037",
+    "Output Tokens": "223"
   }
 ];
