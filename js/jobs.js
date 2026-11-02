@@ -2468,5 +2468,31 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2565",
     "Input Tokens": "1037",
     "Output Tokens": "223"
+  },
+  {
+    "Posted Date": "2026-11-02",
+    "Application Deadline": "2026-12-21",
+    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Diversity, equity, and inclusion statement; Reference letters",
+    "University": "Georgia Institute of Technology",
+    "Department": "School of Computational Science and Engineering",
+    "Position Title": "Tenure-Track Assistant, Associate, or Full Professor",
+    "Lat/Long": "33.7756, -84.3963",
+    "City": "Atlanta, Georgia",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33310",
+    "Input Tokens": "1123",
+    "Output Tokens": "211"
+  },
+  {
+    "Posted Date": "2026-11-02",
+    "Application Deadline": "Not specified",
+    "Application Materials": "Application materials not specified in the listing",
+    "University": "Case Western Reserve University",
+    "Department": "Department of Computer and Data Sciences, Case School of Engineering",
+    "Position Title": "Assistant or Associate Professor in Artificial Intelligence and Machine Learning",
+    "Lat/Long": "41.5043, -81.6084",
+    "City": "Cleveland, Ohio",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2567",
+    "Input Tokens": "664",
+    "Output Tokens": "216"
   }
 ];
