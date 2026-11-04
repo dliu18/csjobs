@@ -2494,5 +2494,83 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2567",
     "Input Tokens": "664",
     "Output Tokens": "216"
+  },
+  {
+    "Posted Date": "2026-11-04",
+    "Application Deadline": "2026-12-04",
+    "Application Materials": "Cover letter; Curriculum vitae; Teaching statement; Research statement; Equity, diversity, inclusion, and decolonization statement; Completed Western full-time faculty application form; Contact information for at least three academic referees",
+    "University": "Western University",
+    "Department": "Department of Computer Science, Faculty of Science",
+    "Position Title": "Assistant or Associate Professor in Computer Science (Tenure-track/Tenured)",
+    "Lat/Long": "43.0096, -81.2737",
+    "City": "London, Ontario",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33331",
+    "Input Tokens": "2244",
+    "Output Tokens": "223"
+  },
+  {
+    "Posted Date": "2026-11-03",
+    "Application Deadline": "2026-12-01",
+    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching and mentoring statement; List of 3–5 references; Up to 3 representative papers",
+    "University": "Duke University",
+    "Department": "Pierre R. Lamond Department of Electrical and Computer Engineering",
+    "Position Title": "Assistant Professor in Photonics",
+    "Lat/Long": "36.0014, -78.9382",
+    "City": "Durham, North Carolina",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33320",
+    "Input Tokens": "1115",
+    "Output Tokens": "181"
+  },
+  {
+    "Posted Date": "2026-11-03",
+    "Application Deadline": "2027-01-15",
+    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching and mentoring statement; Complete Engineer® statement; Contact information for at least three professional references",
+    "University": "University of Nebraska–Lincoln",
+    "Department": "School of Computing",
+    "Position Title": "Assistant/Associate Professor in Robotics",
+    "Lat/Long": "40.8202, -96.7005",
+    "City": "Lincoln, Nebraska",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2575",
+    "Input Tokens": "967",
+    "Output Tokens": "196"
+  },
+  {
+    "Posted Date": "2026-11-03",
+    "Application Deadline": "2026-12-01",
+    "Application Materials": "Resume/CV; Combined research and teaching statements (3–5 pages total); Names and email addresses of 3–5 references; Recommendation letters (requested through the online portal)",
+    "University": "Stanford University",
+    "Department": "Department of Computer Science",
+    "Position Title": "Assistant or Untenured Associate Professor of Computer Science",
+    "Lat/Long": "37.4275, -122.1697",
+    "City": "Stanford, California",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2572",
+    "Input Tokens": "1229",
+    "Output Tokens": "222"
+  },
+  {
+    "Posted Date": "2026-11-03",
+    "Application Deadline": "2026-12-15",
+    "Application Materials": "Curriculum vitae; Research statement; Teaching statement; Three confidential recommendation letters; Three significant publications, software, or research products",
+    "University": "New York University",
+    "Department": "Computer Science",
+    "Position Title": "Tenure-track Faculty Positions in Computer Science",
+    "Lat/Long": "40.7295, -73.9965",
+    "City": "New York, New York",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2573",
+    "Input Tokens": "936",
+    "Output Tokens": "220"
+  },
+  {
+    "Posted Date": "2026-11-03",
+    "Application Deadline": "2027-01-15",
+    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching and mentoring statement; Complete Engineer statement; Contact information for at least three professional references",
+    "University": "University of Nebraska–Lincoln",
+    "Department": "School of Computing, College of Engineering",
+    "Position Title": "Assistant or Associate Professor of Software Engineering",
+    "Lat/Long": "40.8202, -96.7005",
+    "City": "Lincoln, Nebraska",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2574",
+    "Input Tokens": "1005",
+    "Output Tokens": "224"
   }
 ];
