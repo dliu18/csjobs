@@ -1,7 +1,7 @@
 window.CSJOBS_JOBS = [
   {
     "Posted Date": "2026-08-27",
-    "Application Deadline": "2026-10-12",
+    "Application Deadline": "2026-10-12 (full consideration; open until filled)",
     "Application Materials": "Cover letter; Curriculum vitae; Teaching statement; Research statement; Three letters of recommendation",
     "University": "Reed College",
     "Department": "Department of Computer Science",
@@ -53,7 +53,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-08-21",
-    "Application Deadline": "2026-10-05",
+    "Application Deadline": "2026-10-05 (review begins)",
     "Application Materials": "Curriculum vitae; Letter of interest; Teaching statement; Research statement; Diversity statement; Contact information for three references",
     "University": "University of Puget Sound",
     "Department": "Department of Biology",
@@ -79,7 +79,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-08-18",
-    "Application Deadline": "2026-09-15",
+    "Application Deadline": "2026-09-15 (review begins; full consideration; open until filled)",
     "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Equity, diversity, inclusion, and Indigeneity statement",
     "University": "University of British Columbia",
     "Department": "Faculty of Applied Science, School of Engineering, Civil Engineering Program",
@@ -92,7 +92,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-08-18",
-    "Application Deadline": "2026-09-15",
+    "Application Deadline": "2026-09-15 (review begins; full consideration; open until filled)",
     "Application Materials": "Cover letter; Curriculum vitae; Teaching statement; Equity, diversity, inclusion, and Indigeneity statement",
     "University": "University of British Columbia",
     "Department": "Faculty of Applied Science, School of Engineering, Electrical and Computer Engineering",
@@ -105,7 +105,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-08-18",
-    "Application Deadline": "2026-09-15",
+    "Application Deadline": "2026-09-15 (review begins; full consideration; open until filled)",
     "Application Materials": "Cover letter; Curriculum vitae; Teaching statement; Equity, diversity, inclusion, and Indigeneity statement",
     "University": "University of British Columbia",
     "Department": "Faculty of Applied Science, School of Engineering, Civil Engineering Program",
@@ -287,7 +287,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-08-31",
-    "Application Deadline": "2026-10-16",
+    "Application Deadline": "2026-10-16 (review begins)",
     "Application Materials": "Curriculum vitae; Letter of interest; Teaching statement; Research statement; Diversity statement; Contact information for three references",
     "University": "University of Puget Sound",
     "Department": "Math & Computer Science",
@@ -651,7 +651,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-09-10",
-    "Application Deadline": "2026-10-15 (application deadline; applications may be reviewed before closing)",
+    "Application Deadline": "2026-10-15 (end of day PDT; application deadline; applications may be reviewed before closing)",
     "Application Materials": "Cover letter; Curriculum vitae; Teaching statement; Evidence of teaching effectiveness; Educational Leadership Vision Statement; Three letters of reference; Diversity statement",
     "University": "University of British Columbia",
     "Department": "Department of Computer Science",
@@ -742,7 +742,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-09-14",
-    "Application Deadline": "2027-01-15",
+    "Application Deadline": "2027-01-15 23:59 Eastern Time (application deadline; narrative says until filled)",
     "Application Materials": "Curriculum vitae; Cover letter; Teaching statement; Research statement; References",
     "University": "Southern Illinois University Edwardsville",
     "Department": "Department of Computer Science",
@@ -755,7 +755,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-09-16",
-    "Application Deadline": "2026-10-15",
+    "Application Deadline": "2026-10-15 (review begins; open until filled)",
     "Application Materials": "Cover letter; Curriculum vitae; Teaching statement; Research statement",
     "University": "Bates College",
     "Department": "Program in Digital and Computational Studies",
@@ -937,7 +937,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-09-23",
-    "Application Deadline": "2026-11-16",
+    "Application Deadline": "2026-11-16 (narrative application deadline; ad header instead says 2026-11-18 23:59 Eastern Time)",
     "Application Materials": "Cover letter; Curriculum vitae; Summary of past research activities (up to 2 pages); Overview of future research interests (up to 2 pages); Three letters of recommendation",
     "University": "Stony Brook University",
     "Department": "Laufer Center for Physical & Quantitative Biology",
@@ -1028,7 +1028,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-09-26",
-    "Application Deadline": "2026-12-01",
+    "Application Deadline": "2026-12-01 (review begins by this date; later applications considered until filled)",
     "Application Materials": "Cover letter; Curriculum vitae; Personal statement covering research, teaching, and service; List of four references with contact information",
     "University": "Texas A&M University",
     "Department": "Department of Computer Science and Engineering",
@@ -1041,7 +1041,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-09-25",
-    "Application Deadline": "2026-10-15",
+    "Application Deadline": "2026-10-15 (full consideration)",
     "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Diversity, equity, and inclusion statement; Contact information for references",
     "University": "University of Washington Bothell",
     "Department": "Computing & Software Systems, School of STEM",
@@ -1067,7 +1067,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-09-25",
-    "Application Deadline": "2026-12-01",
+    "Application Deadline": "2026-12-01 (full consideration; later applications may be considered)",
     "Application Materials": "Curriculum vitae; Research statement; Teaching statement; Optional up to three recent publications; Three to five reference letters for assistant professor candidates, or reference list for senior candidates",
     "University": "Johns Hopkins University",
     "Department": "Department of Computer Science",
@@ -1080,7 +1080,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-09-28",
-    "Application Deadline": "2026-11-22",
+    "Application Deadline": "2026-11-22 (review begins; full consideration)",
     "Application Materials": "Curriculum vitae; Cover letter; Teaching philosophy statement; Research plan; Three reference letters",
     "University": "Lake Forest College",
     "Department": "Department of Mathematics and Computer Science",
@@ -1093,7 +1093,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-09-28",
-    "Application Deadline": "2026-12-31",
+    "Application Deadline": "2026-12-31 (full consideration; open until filled)",
     "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Diversity or inclusion statement; References",
     "University": "Georgia Institute of Technology",
     "Department": "School of Cybersecurity and Privacy",
@@ -1236,7 +1236,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-02",
-    "Application Deadline": "2026-11-09",
+    "Application Deadline": "2026-11-09 23:59 Pacific Time (review and final deadline)",
     "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching and mentoring statement; Statements for three significant publications with PDF links; Authorization to Release Information form; Three letters of recommendation",
     "University": "University of California, Berkeley",
     "Department": "Department of Electrical Engineering and Computer Sciences; Center for Computational Biology",
@@ -1340,7 +1340,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-02",
-    "Application Deadline": "2027-01-11",
+    "Application Deadline": "2027-01-11 (full consideration; open until filled)",
     "Application Materials": "Cover letter; Curriculum vitae with contact information for at least three professional references; Research statement; Teaching statement",
     "University": "University of Louisville",
     "Department": "Department of Computer Science and Engineering, J.B. Speed School of Engineering",
@@ -1574,7 +1574,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-07",
-    "Application Deadline": "2026-12-11",
+    "Application Deadline": "2026-12-11 (full consideration)",
     "Application Materials": "Application submitted via PageUp; see posting for required materials",
     "University": "San Diego State University",
     "Department": "Management Information Systems (MIS), Fowler College of Business",
@@ -1587,7 +1587,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-07",
-    "Application Deadline": "2026-12-11",
+    "Application Deadline": "2026-12-11 (full consideration)",
     "Application Materials": "Application materials not specified in the listing",
     "University": "San Diego State University",
     "Department": "Electrical and Computer Engineering",
@@ -1600,7 +1600,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-07",
-    "Application Deadline": "2026-11-13",
+    "Application Deadline": "2026-11-13 (full consideration; open until filled)",
     "Application Materials": "Curriculum vitae; Cover letter; Research statement; Teaching statement; References",
     "University": "University of Waterloo",
     "Department": "David R. Cheriton School of Computer Science",
@@ -1613,7 +1613,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-08",
-    "Application Deadline": "2026-11-23",
+    "Application Deadline": "2026-11-23 (review begins; open until filled)",
     "Application Materials": "Curriculum vitae; Cover letter; Research statement; Teaching statement; Three reference letters",
     "University": "Utah State University",
     "Department": "Department of Mathematics and Statistics",
@@ -1639,7 +1639,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-08",
-    "Application Deadline": "2026-11-15",
+    "Application Deadline": "2026-11-15 (priority; open until filled)",
     "Application Materials": "Cover letter; Curriculum vitae or resume; Research statement; Teaching philosophy statement",
     "University": "Rochester Institute of Technology",
     "Department": "School of Psychology and Cognitive Science",
@@ -1665,7 +1665,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-12",
-    "Application Deadline": "2026-12-01",
+    "Application Deadline": "2026-12-01 (full consideration; open until filled)",
     "Application Materials": "Curriculum vitae; Research statement; Teaching statement; Identification of one or two top publications; At least three reference letters",
     "University": "Cornell University",
     "Department": "Department of Computer Science",
@@ -1808,7 +1808,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-15",
-    "Application Deadline": "2026-10-28",
+    "Application Deadline": "2026-10-28 (full consideration; review begins immediately; open until filled)",
     "Application Materials": "Letter of interest; Curriculum vitae; Up to three research papers or representative scholarship samples; Three recommendation letters; Teaching record and evidence of teaching effectiveness; Optional supporting documents, such as curriculum development materials",
     "University": "Cornell University",
     "Department": "Operations, Technology, and Information Management (OTIM), Charles H. Dyson School of Applied Economics and Management",
@@ -1834,7 +1834,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-16",
-    "Application Deadline": "2026-12-01",
+    "Application Deadline": "2026-12-01 (full consideration; open until filled)",
     "Application Materials": "Curriculum vitae; Research statement (up to five pages); Teaching philosophy statement (up to two pages); Names and contact information for three to five professional references",
     "University": "Rice University",
     "Department": "George R. Brown School of Engineering and Computing",
@@ -1847,7 +1847,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-16",
-    "Application Deadline": "2026-12-01",
+    "Application Deadline": "2026-12-01 (encouraged for full consideration; open until filled)",
     "Application Materials": "Curriculum vitae; Research statement (up to five pages); Teaching philosophy statement (up to two pages); Names and contact information for 3–5 professional references",
     "University": "Rice University",
     "Department": "George R. Brown School of Engineering and Computing; potential appointment in Statistics, Computer Science, or Electrical and Computer Engineering",
@@ -2016,7 +2016,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-19",
-    "Application Deadline": "2026-11-15",
+    "Application Deadline": "2026-11-15 (full consideration; late applications reviewed with lower priority)",
     "Application Materials": "Cover letter; Curriculum vitae; Three reference letters; Research statement; Teaching statement",
     "University": "University of Washington",
     "Department": "Department of Electrical & Computer Engineering",
@@ -2029,7 +2029,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-19",
-    "Application Deadline": "2026-11-15",
+    "Application Deadline": "2026-11-15 (full consideration; late applications reviewed with lower priority)",
     "Application Materials": "Cover letter; Curriculum vitae; Three reference letters; Research statement; Teaching statement",
     "University": "University of Washington",
     "Department": "Electrical & Computer Engineering",
@@ -2107,7 +2107,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-22",
-    "Application Deadline": "2026-12-01",
+    "Application Deadline": "2026-12-01 (full consideration)",
     "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Contact information for references",
     "University": "Lehigh University",
     "Department": "Department of Computer Science and Engineering",
@@ -2173,7 +2173,7 @@ window.CSJOBS_JOBS = [
   {
     "Posted Date": "2026-10-22",
     "Application Deadline": "2026-11-05 23:59 Pacific Time (HCI portal full consideration; HCI narrative instead says 2026-12-05; AI/ML and Systems full consideration 2026-12-01 23:59 Pacific Time; all close 2027-04-01 23:59 Pacific Time)",
-    "Application Materials": "Not specified in listing",
+    "Application Materials": "Not specified in listing; CS AI/ML and Systems: cover letter, CV, research and teaching statements, sample research publications, three reference contacts (JPF10341/JPF10340)",
     "University": "University of California, Irvine",
     "Department": "Donald Bren School of Information and Computer Sciences; Departments of Informatics and Computer Science",
     "Position Title": "Open Rank Faculty in Informatics and Computer Science (HCI, AI/ML, and Systems)",
@@ -2224,19 +2224,6 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-27",
-    "Application Deadline": "Not specified",
-    "Application Materials": "Not specified in listing",
-    "University": "University of California, Irvine",
-    "Department": "Computer Science",
-    "Position Title": "Open Rank Faculty Positions in Computer Science (AI/ML and Systems)",
-    "Lat/Long": "33.6405, -117.8443",
-    "City": "Irvine, California",
-    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33256",
-    "Input Tokens": "1032",
-    "Output Tokens": "180"
-  },
-  {
-    "Posted Date": "2026-10-27",
     "Application Deadline": "2026-11-22",
     "Application Materials": "Curriculum vitae; Cover letter; Research statement; Teaching statement; Up to three representative publications in one file; Names and contact information for three professional references",
     "University": "University of Massachusetts Lowell",
@@ -2276,7 +2263,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-27",
-    "Application Deadline": "2026-11-16",
+    "Application Deadline": "2026-11-16 (review begins; full consideration 2026-12-14)",
     "Application Materials": "Online application; specific materials not stated",
     "University": "California Institute of Technology",
     "Department": "Engineering and Applied Science Division — Information, Systems and Computing (ISC)",
@@ -2289,20 +2276,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-27",
-    "Application Deadline": "2026-12-31",
-    "Application Materials": "Cover letter; Curriculum vitae (CV); Research statement; Teaching statement; Names and email addresses of four references",
-    "University": "University of Maryland, College Park",
-    "Department": "Department of Computer Science",
-    "Position Title": "Tenure-Track Faculty, Open Rank",
-    "Lat/Long": "38.9869, -76.9426",
-    "City": "College Park, Maryland",
-    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2551",
-    "Input Tokens": "1103",
-    "Output Tokens": "207"
-  },
-  {
-    "Posted Date": "2026-10-27",
-    "Application Deadline": "2026-12-15",
+    "Application Deadline": "2026-12-15 (priority)",
     "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Contact information for at least three references",
     "University": "Rutgers University",
     "Department": "Department of Computer Science",
@@ -2315,20 +2289,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-26",
-    "Application Deadline": "2026-12-01",
-    "Application Materials": "Application materials as specified in the Interfolio application portal",
-    "University": "University of Virginia",
-    "Department": "School of Data Science",
-    "Position Title": "Open-Rank Tenured/Tenure-Track Professor of Data Science in NLP",
-    "Lat/Long": "38.0336, -78.5080",
-    "City": "Charlottesville, Virginia",
-    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2546",
-    "Input Tokens": "638",
-    "Output Tokens": "247"
-  },
-  {
-    "Posted Date": "2026-10-26",
-    "Application Deadline": "Not specified; see individual job advertisement",
+    "Application Deadline": "2026-10-29 (Quantum and AI Infrastructure application deadlines; Secure/Trustworthy AI and Tooker Chair 2026-11-25; rolling reserve pools; AI Real-World Impact portal could not be verified)",
     "Application Materials": "See individual position advertisement for required materials",
     "University": "Arizona State University",
     "Department": "School of Computing and Augmented Intelligence, Ira A. Fulton Schools of Engineering",
@@ -2354,7 +2315,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-26",
-    "Application Deadline": "2026-11-15",
+    "Application Deadline": "2026-11-15 (review begins)",
     "Application Materials": "Application materials as specified in the online application portal",
     "University": "University of Virginia",
     "Department": "Department of Computer Science, School of Engineering and Applied Science",
@@ -2367,7 +2328,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-28",
-    "Application Deadline": "2026-12-07",
+    "Application Deadline": "2026-12-07 (narrative closing date; AJO cutoff 2026-12-08 01:59:59, time zone not specified)",
     "Application Materials": "Cover letter; Curriculum vitae with publication list; Research statement; Teaching statement; Names of three referees and reference letters; Diversity statement",
     "University": "University of British Columbia",
     "Department": "Department of Computer Science",
@@ -2380,20 +2341,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-28",
-    "Application Deadline": "2026-12-01",
-    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Names of at least three references",
-    "University": "Cornell University",
-    "Department": "Department of Information Science",
-    "Position Title": "Tenure-track Faculty in Information Science",
-    "Lat/Long": "42.4534, -76.4735",
-    "City": "Ithaca, New York",
-    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2555",
-    "Input Tokens": "1400",
-    "Output Tokens": "245"
-  },
-  {
-    "Posted Date": "2026-10-28",
-    "Application Deadline": "2026-12-01",
+    "Application Deadline": "2026-12-01 (review begins, including references; applications accepted until search concludes)",
     "Application Materials": "Cover letter; Curriculum vitae (CV); Research statement; Teaching statement; External engagement statement; Names of at least three references and reference letters",
     "University": "Cornell University",
     "Department": "Department of Information Science",
@@ -2406,7 +2354,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-29",
-    "Application Deadline": "Not specified",
+    "Application Deadline": "2026-12-07 (closing date)",
     "Application Materials": "See application website for required materials",
     "University": "City College of New York",
     "Department": "Computer Science",
@@ -2432,33 +2380,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-30",
-    "Application Deadline": "2026-11-15",
-    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Up to three sample publications; Three reference letters",
-    "University": "Boston University",
-    "Department": "Department of Computer Science",
-    "Position Title": "Assistant Professor of Artificial Intelligence",
-    "Lat/Long": "42.3505, -71.1054",
-    "City": "Boston, Massachusetts",
-    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2564",
-    "Input Tokens": "822",
-    "Output Tokens": "169"
-  },
-  {
-    "Posted Date": "2026-10-29",
-    "Application Deadline": "Not specified",
-    "Application Materials": "",
-    "University": "University of British Columbia",
-    "Department": "Department of Computer Science",
-    "Position Title": "Assistant Professor (Tenure-Track)",
-    "Lat/Long": "49.2606, -123.2460",
-    "City": "Vancouver, British Columbia, Canada",
-    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2562",
-    "Input Tokens": "583",
-    "Output Tokens": "227"
-  },
-  {
-    "Posted Date": "2026-10-30",
-    "Application Deadline": "Not specified",
+    "Application Deadline": "2026-11-15 (general CS preferred deadline and review begins; Cognitive Science director 2026-11-16; open until filled)",
     "Application Materials": "Application materials as specified at https://jobs.cs.arizona.edu",
     "University": "University of Arizona",
     "Department": "Department of Computer Science",
@@ -2471,7 +2393,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-11-02",
-    "Application Deadline": "2026-12-21",
+    "Application Deadline": "2026-12-21 (full consideration)",
     "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Diversity, equity, and inclusion statement; Reference letters",
     "University": "Georgia Institute of Technology",
     "Department": "School of Computational Science and Engineering",
@@ -2484,7 +2406,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-11-02",
-    "Application Deadline": "Not specified",
+    "Application Deadline": "2026-12-01 23:59 Eastern Time (both application portals close; review begins immediately; narrative says open until filled)",
     "Application Materials": "Application materials not specified in the listing",
     "University": "Case Western Reserve University",
     "Department": "Department of Computer and Data Sciences, Case School of Engineering",
@@ -2497,7 +2419,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-11-04",
-    "Application Deadline": "2026-12-04",
+    "Application Deadline": "2026-12-04 (review begins and narrative submission deadline; header and AJO closing date instead 2026-12-05; open until filled)",
     "Application Materials": "Cover letter; Curriculum vitae; Teaching statement; Research statement; Equity, diversity, inclusion, and decolonization statement; Completed Western full-time faculty application form; Contact information for at least three academic referees",
     "University": "Western University",
     "Department": "Department of Computer Science, Faculty of Science",
@@ -2510,7 +2432,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-11-03",
-    "Application Deadline": "2026-12-01",
+    "Application Deadline": "2026-12-01 (priority)",
     "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching and mentoring statement; List of 3–5 references; Up to 3 representative papers",
     "University": "Duke University",
     "Department": "Pierre R. Lamond Department of Electrical and Computer Engineering",
@@ -2523,7 +2445,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-11-03",
-    "Application Deadline": "2027-01-15",
+    "Application Deadline": "2027-01-15 (review begins; open until filled)",
     "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching and mentoring statement; Complete Engineer® statement; Contact information for at least three professional references",
     "University": "University of Nebraska–Lincoln",
     "Department": "School of Computing",
@@ -2536,7 +2458,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-11-03",
-    "Application Deadline": "2026-12-01",
+    "Application Deadline": "2026-12-01 (review begins; full consideration; later applications accepted)",
     "Application Materials": "Resume/CV; Combined research and teaching statements (3–5 pages total); Names and email addresses of 3–5 references; Recommendation letters (requested through the online portal)",
     "University": "Stanford University",
     "Department": "Department of Computer Science",
@@ -2549,7 +2471,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-11-03",
-    "Application Deadline": "2026-12-15",
+    "Application Deadline": "2026-12-15 (recommended for full consideration; later applications reviewed as needed)",
     "Application Materials": "Curriculum vitae; Research statement; Teaching statement; Three confidential recommendation letters; Three significant publications, software, or research products",
     "University": "New York University",
     "Department": "Computer Science",
@@ -2562,7 +2484,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-11-03",
-    "Application Deadline": "2027-01-15",
+    "Application Deadline": "2027-01-15 (review begins; open until filled)",
     "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching and mentoring statement; Complete Engineer statement; Contact information for at least three professional references",
     "University": "University of Nebraska–Lincoln",
     "Department": "School of Computing, College of Engineering",
@@ -2575,7 +2497,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-11-05",
-    "Application Deadline": "2026-12-01",
+    "Application Deadline": "2026-12-01 (full consideration; open until filled)",
     "Application Materials": "Curriculum vitae; Research statement, including commercial/public engagement and societal impact; Teaching statement; Identification of one or two top publications; At least three reference letters",
     "University": "Cornell University",
     "Department": "Department of Computer Science",
@@ -2588,7 +2510,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-11-05",
-    "Application Deadline": "2026-12-18",
+    "Application Deadline": "2026-12-18 (full consideration)",
     "Application Materials": "Cover letter; Curriculum vitae; Standard AMS cover sheet; Research statement; Teaching statement; Four recommendation letters, including one addressing teaching",
     "University": "University of Massachusetts Boston",
     "Department": "Department of Mathematics",
@@ -2598,19 +2520,6 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://academicjobsonline.org/ajo/jobs/33339",
     "Input Tokens": "1484",
     "Output Tokens": "227"
-  },
-  {
-    "Posted Date": "2026-11-05",
-    "Application Deadline": "2026-12-01",
-    "Application Materials": "Curriculum vitae; Research statement, including commercial/public engagement and societal impact; Teaching statement; One or two representative publications; At least three reference letters",
-    "University": "Cornell University",
-    "Department": "Department of Computer Science, Cornell Ann S. Bowers College of Computing and Information Science",
-    "Position Title": "Computer Science Faculty — Tenure-Track or Tenured",
-    "Lat/Long": "40.7554, -73.9566",
-    "City": "New York, New York",
-    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2579",
-    "Input Tokens": "1566",
-    "Output Tokens": "275"
   },
   {
     "Posted Date": "2026-11-05",
@@ -2627,7 +2536,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-28",
-    "Application Deadline": "2026-12-01",
+    "Application Deadline": "2026-12-01 (full consideration; review begins immediately; closing 2027-01-15 23:59:59)",
     "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Service statement; External engagement statement; Three publications; Doctoral transcript (junior applicants); Three reference letters",
     "University": "Cornell University",
     "Department": "School of Electrical and Computer Engineering",
@@ -2640,7 +2549,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-21",
-    "Application Deadline": "2026-12-11",
+    "Application Deadline": "2026-12-11 (review begins; full consideration; open until filled)",
     "Application Materials": "Cover letter; Curriculum vitae; Research papers; Teaching evidence or statement; Research statement; Contact information for at least three referees",
     "University": "Massachusetts Institute of Technology (MIT)",
     "Department": "Department of Linguistics and Philosophy; College of Computing",
@@ -2653,7 +2562,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-13",
-    "Application Deadline": "2026-12-01",
+    "Application Deadline": "2026-12-01 (review begins, including references; applications accepted until search concludes)",
     "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Names of at least three references",
     "University": "Cornell University",
     "Department": "Department of Information Science",
@@ -2666,7 +2575,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-01",
-    "Application Deadline": "2027-01-31",
+    "Application Deadline": "2027-01-31 (full consideration; applications accepted until filled)",
     "Application Materials": "Curriculum vitae; Research statement (up to 5 pages); Three or more recommendation letters",
     "University": "Institute for Computer Science, Artificial Intelligence and Technology (INSAIT)",
     "Department": "Institute for Computer Science, Artificial Intelligence and Technology",
@@ -2679,7 +2588,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-09-17",
-    "Application Deadline": "2026-11-15",
+    "Application Deadline": "2026-11-15 (review begins; open until filled)",
     "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching and mentoring statement; Names and contact information for at least three references; Three representative publications; Three reference letters",
     "University": "Georgia Institute of Technology",
     "Department": "School of Interactive Computing",
@@ -2692,7 +2601,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-11-04",
-    "Application Deadline": "2026-12-01",
+    "Application Deadline": "2026-12-01 (review begins; open until filled)",
     "Application Materials": "Application letter with intended rank and teaching/research objectives; Curriculum vitae; Design and research portfolio, including pedagogical materials and student work; Selected peer-reviewed papers and publications; Names and contact information for three references; Statement on diversity, inclusion, learning, research, service, or outreach",
     "University": "Cornell University",
     "Department": "Department of Design Tech",
