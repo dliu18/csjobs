@@ -2624,5 +2624,83 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2578",
     "Input Tokens": "585",
     "Output Tokens": "198"
+  },
+  {
+    "Posted Date": "2026-10-28",
+    "Application Deadline": "2026-12-01",
+    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Service statement; External engagement statement; Three publications; Doctoral transcript (junior applicants); Three reference letters",
+    "University": "Cornell University",
+    "Department": "School of Electrical and Computer Engineering",
+    "Position Title": "Tenured/Tenure-Track Faculty in Electrical and Computer Engineering",
+    "Lat/Long": "40.7549, -73.9566",
+    "City": "New York, New York",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33268",
+    "Input Tokens": "1481",
+    "Output Tokens": "232"
+  },
+  {
+    "Posted Date": "2026-10-21",
+    "Application Deadline": "2026-12-11",
+    "Application Materials": "Cover letter; Curriculum vitae; Research papers; Teaching evidence or statement; Research statement; Contact information for at least three referees",
+    "University": "Massachusetts Institute of Technology (MIT)",
+    "Department": "Department of Linguistics and Philosophy; College of Computing",
+    "Position Title": "Tenure-Track Assistant Professor of Computational Linguistics",
+    "Lat/Long": "42.3601, -71.0942",
+    "City": "Cambridge, Massachusetts",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33177",
+    "Input Tokens": "1062",
+    "Output Tokens": "198"
+  },
+  {
+    "Posted Date": "2026-10-13",
+    "Application Deadline": "2026-12-01",
+    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Names of at least three references",
+    "University": "Cornell University",
+    "Department": "Department of Information Science",
+    "Position Title": "Tenure-Track Faculty in Information Science",
+    "Lat/Long": "42.4473, -76.4844",
+    "City": "Ithaca, New York",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33075",
+    "Input Tokens": "1658",
+    "Output Tokens": "219"
+  },
+  {
+    "Posted Date": "2026-10-01",
+    "Application Deadline": "2027-01-31",
+    "Application Materials": "Curriculum vitae; Research statement (up to 5 pages); Three or more recommendation letters",
+    "University": "Institute for Computer Science, Artificial Intelligence and Technology (INSAIT)",
+    "Department": "Institute for Computer Science, Artificial Intelligence and Technology",
+    "Position Title": "Faculty Positions (Tenure-Track and Tenured)",
+    "Lat/Long": "42.6508, 23.3790",
+    "City": "Sofia, Bulgaria",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/32800",
+    "Input Tokens": "948",
+    "Output Tokens": "317"
+  },
+  {
+    "Posted Date": "2026-09-17",
+    "Application Deadline": "2026-11-15",
+    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching and mentoring statement; Names and contact information for at least three references; Three representative publications; Three reference letters",
+    "University": "Georgia Institute of Technology",
+    "Department": "School of Interactive Computing",
+    "Position Title": "Tenure-Track Faculty in Computer Vision",
+    "Lat/Long": "33.7756, -84.3963",
+    "City": "Atlanta, Georgia",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/32736",
+    "Input Tokens": "2140",
+    "Output Tokens": "180"
+  },
+  {
+    "Posted Date": "2026-11-04",
+    "Application Deadline": "2026-12-01",
+    "Application Materials": "Application letter with intended rank and teaching/research objectives; Curriculum vitae; Design and research portfolio, including pedagogical materials and student work; Selected peer-reviewed papers and publications; Names and contact information for three references; Statement on diversity, inclusion, learning, research, service, or outreach",
+    "University": "Cornell University",
+    "Department": "Department of Design Tech",
+    "Position Title": "Assistant or Associate Professor in Design Technology",
+    "Lat/Long": "42.4473, -76.4849",
+    "City": "Ithaca, New York",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33332",
+    "Input Tokens": "2355",
+    "Output Tokens": "215"
   }
 ];
