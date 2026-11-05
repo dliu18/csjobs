@@ -2572,5 +2572,57 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2574",
     "Input Tokens": "1005",
     "Output Tokens": "224"
+  },
+  {
+    "Posted Date": "2026-11-05",
+    "Application Deadline": "2026-12-01",
+    "Application Materials": "Curriculum vitae; Research statement, including commercial/public engagement and societal impact; Teaching statement; Identification of one or two top publications; At least three reference letters",
+    "University": "Cornell University",
+    "Department": "Department of Computer Science",
+    "Position Title": "Tenure-Track and Tenured Faculty Positions in Computer Science",
+    "Lat/Long": "40.7551, -73.9567",
+    "City": "New York, New York",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33341",
+    "Input Tokens": "1583",
+    "Output Tokens": "252"
+  },
+  {
+    "Posted Date": "2026-11-05",
+    "Application Deadline": "2026-12-18",
+    "Application Materials": "Cover letter; Curriculum vitae; Standard AMS cover sheet; Research statement; Teaching statement; Four recommendation letters, including one addressing teaching",
+    "University": "University of Massachusetts Boston",
+    "Department": "Department of Mathematics",
+    "Position Title": "Tenure-Track Assistant Professor of Mathematics",
+    "Lat/Long": "42.3120, -71.0447",
+    "City": "Boston, Massachusetts",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33339",
+    "Input Tokens": "1484",
+    "Output Tokens": "227"
+  },
+  {
+    "Posted Date": "2026-11-05",
+    "Application Deadline": "2026-12-01",
+    "Application Materials": "Curriculum vitae; Research statement, including commercial/public engagement and societal impact; Teaching statement; One or two representative publications; At least three reference letters",
+    "University": "Cornell University",
+    "Department": "Department of Computer Science, Cornell Ann S. Bowers College of Computing and Information Science",
+    "Position Title": "Computer Science Faculty — Tenure-Track or Tenured",
+    "Lat/Long": "40.7554, -73.9566",
+    "City": "New York, New York",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2579",
+    "Input Tokens": "1566",
+    "Output Tokens": "275"
+  },
+  {
+    "Posted Date": "2026-11-05",
+    "Application Deadline": "2026-12-07",
+    "Application Materials": "Application materials as specified in the online application",
+    "University": "University of California, Berkeley",
+    "Department": "Electrical Engineering and Computer Sciences",
+    "Position Title": "Assistant, Associate, or Full Professor",
+    "Lat/Long": "37.8715, -122.2730",
+    "City": "Berkeley, California",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2578",
+    "Input Tokens": "585",
+    "Output Tokens": "198"
   }
 ];
