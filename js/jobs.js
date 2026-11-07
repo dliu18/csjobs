@@ -2611,5 +2611,31 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://academicjobsonline.org/ajo/jobs/33332",
     "Input Tokens": "2355",
     "Output Tokens": "215"
+  },
+  {
+    "Posted Date": "2026-11-06",
+    "Application Deadline": "2026-11-15",
+    "Application Materials": "Cover letter; Curriculum vitae; References; Research statement; Teaching and mentoring statement; Community statement",
+    "University": "Virginia Tech",
+    "Department": "Department of Computer Science",
+    "Position Title": "Tenure-Track Faculty Position in Computer Science",
+    "Lat/Long": "37.2296, -80.4139",
+    "City": "Blacksburg, Virginia",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2581",
+    "Input Tokens": "611",
+    "Output Tokens": "218"
+  },
+  {
+    "Posted Date": "2026-11-06",
+    "Application Deadline": "2027-01-11",
+    "Application Materials": "Curriculum vitae; Cover letter; Teaching philosophy statement; Research statement; Writing or publication sample; Contact information for at least three academic or professional references",
+    "University": "The University of Texas at Dallas",
+    "Department": "Department of Computer Science",
+    "Position Title": "Assistant, Associate, or Full Professor of Computer Science",
+    "Lat/Long": "32.9857, -96.7501",
+    "City": "Richardson, Texas",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2580",
+    "Input Tokens": "1682",
+    "Output Tokens": "196"
   }
 ];
