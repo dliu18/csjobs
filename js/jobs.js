@@ -3118,5 +3118,57 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://illinois.csod.com/ux/ats/careersite/1/home/requisition/18135?c=illinois",
     "Input Tokens": "",
     "Output Tokens": ""
+  },
+  {
+    "Posted Date": "2026-11-09",
+    "Application Deadline": "2026-12-15",
+    "Application Materials": "Curriculum vitae; Teaching statement; Research plan; Broader impacts statement; Contact information for three referees",
+    "University": "Brandeis University",
+    "Department": "Engineering",
+    "Position Title": "Assistant Professor in Vision Engineering",
+    "Lat/Long": "42.3656, -71.2587",
+    "City": "Waltham, Massachusetts",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33376",
+    "Input Tokens": "1546",
+    "Output Tokens": "185"
+  },
+  {
+    "Posted Date": "2026-11-09",
+    "Application Deadline": "2026-12-01",
+    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; References",
+    "University": "University of Illinois Urbana-Champaign",
+    "Department": "Department of Electrical and Computer Engineering",
+    "Position Title": "Open-Rank Tenure-Track Faculty",
+    "Lat/Long": "40.1020, -88.2272",
+    "City": "Urbana, Illinois",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2584",
+    "Input Tokens": "848",
+    "Output Tokens": "192"
+  },
+  {
+    "Posted Date": "2026-11-09",
+    "Application Deadline": "2026-12-16",
+    "Application Materials": "Application materials not specified in the listing",
+    "University": "Carnegie Mellon University",
+    "Department": "Ray and Stephanie Lane Computational Biology Department, Kenneth C. Griffin School of Computer Science",
+    "Position Title": "Open-Rank Tenure-Track Faculty in Computational Biology",
+    "Lat/Long": "40.4432, -79.9436",
+    "City": "Pittsburgh, Pennsylvania",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2583",
+    "Input Tokens": "638",
+    "Output Tokens": "226"
+  },
+  {
+    "Posted Date": "2026-11-09",
+    "Application Deadline": "Immediately; review continues until filled",
+    "Application Materials": "Curriculum vitae; Cover letter; Research statement; Teaching statement; References",
+    "University": "University of Texas at Arlington",
+    "Department": "Computer Science and Engineering",
+    "Position Title": "Open-Rank Tenure-Track Professor",
+    "Lat/Long": "32.7298, -97.1131",
+    "City": "Arlington, Texas",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2582",
+    "Input Tokens": "1004",
+    "Output Tokens": "244"
   }
 ];
