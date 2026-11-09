@@ -3170,5 +3170,18 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2582",
     "Input Tokens": "1004",
     "Output Tokens": "244"
+  },
+  {
+    "Posted Date": "2026-11-09",
+    "Application Deadline": "2026-11-15",
+    "Application Materials": "Curriculum vitae; Research statement; Teaching statement; Selected publications or representative scholarly work; Names and contact information for five references",
+    "University": "New York University",
+    "Department": "Department of Electrical and Computer Engineering",
+    "Position Title": "Open-Rank Tenured/Tenure-Track Faculty in Computing Systems Design and Computer Engineering",
+    "Lat/Long": "40.6943, -73.9868",
+    "City": "Brooklyn, New York",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2585",
+    "Input Tokens": "1363",
+    "Output Tokens": "218"
   }
 ];
