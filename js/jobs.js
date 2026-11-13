@@ -3183,5 +3183,83 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2585",
     "Input Tokens": "1363",
     "Output Tokens": "218"
+  },
+  {
+    "Posted Date": "2026-11-12",
+    "Application Deadline": "2027-01-15",
+    "Application Materials": "Curriculum vitae; Research statement; Teaching statement; Names and email addresses of four references",
+    "University": "Pennsylvania State University",
+    "Department": "Department of Computer Science and Engineering",
+    "Position Title": "Tenure-Track Assistant Professor in Computer Architecture",
+    "Lat/Long": "40.7982, -77.8599",
+    "City": "State College, Pennsylvania",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33419",
+    "Input Tokens": "984",
+    "Output Tokens": "215"
+  },
+  {
+    "Posted Date": "2026-11-11",
+    "Application Deadline": "2027-01-15",
+    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Four letters of recommendation",
+    "University": "University of Maryland, College Park",
+    "Department": "Joint Quantum Institute / Joint Center for Quantum Information and Computer Science",
+    "Position Title": "Joint Quantum Institute Fellow",
+    "Lat/Long": "38.9897, -76.9378",
+    "City": "College Park, Maryland",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33410",
+    "Input Tokens": "776",
+    "Output Tokens": "261"
+  },
+  {
+    "Posted Date": "2026-11-11",
+    "Application Deadline": "2027-01-15",
+    "Application Materials": "Cover letter; Curriculum vitae; Teaching statement and evaluations, if available; Sample syllabus or course outline on AI in finance; Names of three references; Optional research papers or other relevant materials",
+    "University": "HEC Paris",
+    "Department": "Finance Department",
+    "Position Title": "Education Track Faculty in AI and Finance, Open Rank",
+    "Lat/Long": "48.7585, 2.1697",
+    "City": "Jouy-en-Josas, Île-de-France, France",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33407",
+    "Input Tokens": "1058",
+    "Output Tokens": "282"
+  },
+  {
+    "Posted Date": "2026-11-11",
+    "Application Deadline": "2027-01-31",
+    "Application Materials": "Curriculum vitae; Research statement (up to 5 pages); Teaching statement (up to 2 pages); Three or more recommendation letters",
+    "University": "Institute for Computer Science, Artificial Intelligence and Technology (INSAIT)",
+    "Department": "Theory@INSAIT / Theoretical Computer Science, Algorithms, and Complexity",
+    "Position Title": "Faculty Positions in Theory and Algorithms",
+    "Lat/Long": "42.6500, 23.3833",
+    "City": "Sofia, Bulgaria",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33400",
+    "Input Tokens": "912",
+    "Output Tokens": "251"
+  },
+  {
+    "Posted Date": "2026-11-11",
+    "Application Deadline": "2027-01-31",
+    "Application Materials": "Curriculum vitae; Research statement (up to 5 pages); Three or more letters of recommendation",
+    "University": "Institute for Computer Science, Artificial Intelligence and Technology (INSAIT)",
+    "Department": "Institute for Computer Science, Artificial Intelligence and Technology (INSAIT)",
+    "Position Title": "Tenure-Track and Tenured Faculty in Robot Learning",
+    "Lat/Long": "42.6977, 23.3219",
+    "City": "Sofia, Sofia-Capital, Bulgaria",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2586",
+    "Input Tokens": "945",
+    "Output Tokens": "285"
+  },
+  {
+    "Posted Date": "2026-11-13",
+    "Application Deadline": "Not specified",
+    "Application Materials": "Not specified in listing; see application portal",
+    "University": "University of Maryland, Baltimore County (UMBC)",
+    "Department": "Department of Computer Science and Electrical Engineering",
+    "Position Title": "Tenure-Track Assistant Professor in Computer Engineering",
+    "Lat/Long": "39.2556, -76.7111",
+    "City": "Baltimore, Maryland",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2592",
+    "Input Tokens": "621",
+    "Output Tokens": "193"
   }
 ];
