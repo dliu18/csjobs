@@ -126,6 +126,7 @@ function shouldClampMaterials(value) {
 }
 
 function isImmediateDeadline(value) {
+  if (!parseDateValue(value)) return true;
   return /\b(immediate(?:ly)?|as soon as possible|as early as possible|apply early|early applications encouraged|ASAP)\b/i.test(String(value || ""));
 }
 
@@ -134,7 +135,7 @@ function renderUrgentTable() {
   const fields = ["University", "Department", "Position Title", "Application Deadline"];
   document.querySelector("#urgent-table thead").innerHTML = `<tr>${fields.map((field) => `<th>${escapeHtml(field)}</th>`).join("")}<th>Listing</th></tr>`;
   document.querySelector("#urgent-table tbody").innerHTML = urgent.map((job) => `<tr>${fields.map((field) => `<td>${formatTableValue(job, field)}</td>`).join("")}<td><a href="${escapeAttribute(job["Listing Link"])}" target="_blank" rel="noopener noreferrer">Open listing</a></td></tr>`).join("");
-  document.getElementById("urgent-count").textContent = urgent.length ? `${urgent.length} jobs` : "No listings currently specify immediate review or encourage applying as soon as possible.";
+  document.getElementById("urgent-count").textContent = urgent.length ? `${urgent.length} jobs` : "No listings currently specify immediate review, encourage early applications, or lack a dated deadline.";
 }
 
 function renderCalendar() {
