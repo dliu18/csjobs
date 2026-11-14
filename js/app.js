@@ -126,7 +126,7 @@ function shouldClampMaterials(value) {
 }
 
 function isImmediateDeadline(value) {
-  return /\b(immediate(?:ly)?|as soon as possible|as early as possible|ASAP)\b/i.test(String(value || ""));
+  return /\b(immediate(?:ly)?|as soon as possible|as early as possible|apply early|early applications encouraged|ASAP)\b/i.test(String(value || ""));
 }
 
 function renderUrgentTable() {

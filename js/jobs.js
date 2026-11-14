@@ -27,7 +27,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-08-23",
-    "Application Deadline": "2026-11-20 23:59 Eastern Time (latest submission; review is rolling)",
+    "Application Deadline": "2026-11-20 23:59 Eastern Time (latest submission; rolling review; apply early for full consideration)",
     "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Service and/or diversity statement; Contact information for 3–4 references",
     "University": "Rice University",
     "Department": "Rice Advanced Materials Institute (RAMI); home department to be determined",
@@ -911,7 +911,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-09-17",
-    "Application Deadline": "2026-12-01",
+    "Application Deadline": "2026-12-01 23:59 Pacific Time (full consideration; apply as soon as possible; final 2027-06-02 23:59 Pacific Time)",
     "Application Materials": "Application submitted through the UC San Diego Academic Personnel RECRUIT System; Specific required documents not stated in the listing",
     "University": "University of California, San Diego",
     "Department": "Department of Computer Science and Engineering",
@@ -1548,7 +1548,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-07",
-    "Application Deadline": "2026-11-06 (CS full consideration; Quantum Computing 2026-12-01; open until filled)",
+    "Application Deadline": "2026-11-06 (CS full consideration; Quantum Computing 2026-12-01; apply as soon as possible; open until filled)",
     "Application Materials": "Application materials as specified in the online application instructions",
     "University": "Northwestern University",
     "Department": "Computer Science; Electrical and Computer Engineering (for the joint quantum computing appointment)",
@@ -2695,7 +2695,7 @@ window.CSJOBS_JOBS = [
     "Application Deadline": "2026-12-16 23:59 Eastern Time (all materials due for tenure track)",
     "Application Materials": "Cover letter; detailed CV; teaching statement; research statement; three or more reference contacts for letters; three representative papers; broader impact statement",
     "University": "Carnegie Mellon University",
-    "Department": "Kenneth C. Griffin School of Computer Science",
+    "Department": "Kenneth C. Griffin School of Computer Science (including Ray and Stephanie Lane Computational Biology Department)",
     "Position Title": "Open-Rank Tenure-Track Faculty — School of Computer Science",
     "Lat/Long": "40.4433, -79.9436",
     "City": "Pittsburgh, PA",
@@ -2861,7 +2861,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-10-13",
-    "Application Deadline": "2026-12-31 23:59:59 (AJO deadline; full consideration; narrative until filled)",
+    "Application Deadline": "2026-12-31 23:59:59 (AJO deadline; full consideration; apply as soon as possible; open until filled)",
     "Application Materials": "Cover letter with research areas; CV; research statement; teaching and mentoring statement; at least three reference letters. Apply through Georgia Tech Careers job 302850 and submit reference information through AJO.",
     "University": "Georgia Institute of Technology",
     "Department": "School of Computer Science",
@@ -3107,7 +3107,7 @@ window.CSJOBS_JOBS = [
     "Output Tokens": ""
   },
   {
-    "Posted Date": "",
+    "Posted Date": "2026-10-26",
     "Application Deadline": "2026-12-01 (full consideration; earlier applicants may be interviewed before this date; search continues until suitable candidates identified)",
     "Application Materials": "Single PDF: cover letter identifying focus area; CV; research, teaching and service statements; three reference names and email addresses",
     "University": "University of Illinois Urbana-Champaign",
@@ -3134,33 +3134,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-11-09",
-    "Application Deadline": "2026-12-01",
-    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; References",
-    "University": "University of Illinois Urbana-Champaign",
-    "Department": "Department of Electrical and Computer Engineering",
-    "Position Title": "Open-Rank Tenure-Track Faculty",
-    "Lat/Long": "40.1020, -88.2272",
-    "City": "Urbana, Illinois",
-    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2584",
-    "Input Tokens": "848",
-    "Output Tokens": "192"
-  },
-  {
-    "Posted Date": "2026-11-09",
-    "Application Deadline": "2026-12-16",
-    "Application Materials": "Application materials not specified in the listing",
-    "University": "Carnegie Mellon University",
-    "Department": "Ray and Stephanie Lane Computational Biology Department, Kenneth C. Griffin School of Computer Science",
-    "Position Title": "Open-Rank Tenure-Track Faculty in Computational Biology",
-    "Lat/Long": "40.4432, -79.9436",
-    "City": "Pittsburgh, Pennsylvania",
-    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2583",
-    "Input Tokens": "638",
-    "Output Tokens": "226"
-  },
-  {
-    "Posted Date": "2026-11-09",
-    "Application Deadline": "Immediately; review continues until filled",
+    "Application Deadline": "2026-11-13 (portal review start; narrative review begins immediately; apply early; open until filled)",
     "Application Materials": "Curriculum vitae; Cover letter; Research statement; Teaching statement; References",
     "University": "University of Texas at Arlington",
     "Department": "Computer Science and Engineering",
@@ -3212,7 +3186,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-11-11",
-    "Application Deadline": "2027-01-15",
+    "Application Deadline": "2027-01-15 (full consideration; early applications encouraged; open until filled)",
     "Application Materials": "Cover letter; Curriculum vitae; Teaching statement and evaluations, if available; Sample syllabus or course outline on AI in finance; Names of three references; Optional research papers or other relevant materials",
     "University": "HEC Paris",
     "Department": "Finance Department",
@@ -3251,8 +3225,8 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-11-13",
-    "Application Deadline": "Not specified",
-    "Application Materials": "Not specified in listing; see application portal",
+    "Application Deadline": "Open until filled (no dated review or closing cutoff published)",
+    "Application Materials": "Cover letter addressing UMBC mission and inclusive excellence; research statement; teaching statement; CV; three recommendation letters",
     "University": "University of Maryland, Baltimore County (UMBC)",
     "Department": "Department of Computer Science and Electrical Engineering",
     "Position Title": "Tenure-Track Assistant Professor in Computer Engineering",
