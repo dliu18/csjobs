@@ -125,7 +125,20 @@ function shouldClampMaterials(value) {
   return text.length > 140 || text.split(";").length > 3 || text.split(",").length > 5;
 }
 
+function isImmediateDeadline(value) {
+  return /\b(immediate(?:ly)?|as soon as possible|as early as possible|ASAP)\b/i.test(String(value || ""));
+}
+
+function renderUrgentTable() {
+  const urgent = jobs.filter((job) => isImmediateDeadline(job["Application Deadline"]));
+  const fields = ["University", "Department", "Position Title", "Application Deadline"];
+  document.querySelector("#urgent-table thead").innerHTML = `<tr>${fields.map((field) => `<th>${escapeHtml(field)}</th>`).join("")}<th>Listing</th></tr>`;
+  document.querySelector("#urgent-table tbody").innerHTML = urgent.map((job) => `<tr>${fields.map((field) => `<td>${formatTableValue(job, field)}</td>`).join("")}<td><a href="${escapeAttribute(job["Listing Link"])}" target="_blank" rel="noopener noreferrer">Open listing</a></td></tr>`).join("");
+  document.getElementById("urgent-count").textContent = urgent.length ? `${urgent.length} jobs` : "No listings currently specify immediate review or encourage applying as soon as possible.";
+}
+
 function renderCalendar() {
+  renderUrgentTable();
   const container = document.getElementById("calendar-grid");
   container.innerHTML = calendarMonths.map((month) => renderMonth(month)).join("");
   container.querySelectorAll("[data-calendar-date]").forEach((button) => {

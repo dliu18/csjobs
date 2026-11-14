@@ -301,6 +301,8 @@ a:hover {
   text-decoration: underline;
 }
 
+.urgent-listings { margin-top: 32px; }
+
 .calendar-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
