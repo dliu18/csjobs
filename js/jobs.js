@@ -3365,5 +3365,31 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careers.pageuppeople.com/782/cw/en-us/job/525587/assistant-professortenure-system",
     "Input Tokens": "0",
     "Output Tokens": "0"
+  },
+  {
+    "Posted Date": "2026-11-16",
+    "Application Deadline": "2027-01-31 (full consideration for applications received before this date; review begins immediately; no final closing date specified)",
+    "Application Materials": "Cover letter specifying target rank; Curriculum vitae; Research and scholarship statement; Teaching statement; Names and contact information for four professional references",
+    "University": "University of Connecticut",
+    "Department": "School of Computing",
+    "Position Title": "Assistant / Associate / Full Professor — Quantum Computing",
+    "Lat/Long": "",
+    "City": "Storrs, Connecticut",
+    "Listing Link": "https://jobs.hr.uconn.edu/en-us/job/499925/assistantassociatefull-professor-in-soc-quantum-computing",
+    "Input Tokens": "0",
+    "Output Tokens": "0"
+  },
+  {
+    "Posted Date": "2026-09-15",
+    "Application Deadline": "Review begins October 23 (year not stated); open until filled",
+    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Statement on contributions to Lehigh's Principles of Our Equitable Community; Three letters of recommendation",
+    "University": "Lehigh University",
+    "Department": "Biostatistics and Health Data Science, College of Health",
+    "Position Title": "Tenure-Track Assistant Professor — Biostatistics and Health Data Science (Infectious Disease)",
+    "Lat/Long": "",
+    "City": "Bethlehem, Pennsylvania",
+    "Listing Link": "https://apply.interfolio.com/193017",
+    "Input Tokens": "0",
+    "Output Tokens": "0"
   }
 ];
