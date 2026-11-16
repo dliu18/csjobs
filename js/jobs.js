@@ -3160,11 +3160,11 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-11-12",
-    "Application Deadline": "2027-01-15",
-    "Application Materials": "Curriculum vitae; Research statement; Teaching statement; Names and email addresses of four references",
+    "Application Deadline": "2027-01-15 (full consideration; open until filled; AJO deadline 2027-01-31 23:59:59 EST)",
+    "Application Materials": "Cover letter; Curriculum vitae with publication list; Research statement; Teaching statement; Four reference contacts (AJO also requests four reference letters); Applications required at both AJO and Penn State Workday",
     "University": "Pennsylvania State University",
     "Department": "Department of Computer Science and Engineering",
-    "Position Title": "Tenure-Track Assistant Professor in Computer Architecture",
+    "Position Title": "Tenure-Track Assistant, Associate, or Full Professor in Computer Architecture",
     "Lat/Long": "40.7982, -77.8599",
     "City": "State College, Pennsylvania",
     "Listing Link": "https://academicjobsonline.org/ajo/jobs/33419",
@@ -3391,5 +3391,57 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://apply.interfolio.com/193017",
     "Input Tokens": "0",
     "Output Tokens": "0"
+  },
+  {
+    "Posted Date": "2026-11-16",
+    "Application Deadline": "2026-12-01 (review begins; open until filled; AJO deadline 2027-03-01 23:59:59 EST)",
+    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Names and contact information for at least three references",
+    "University": "Temple University",
+    "Department": "Department of Civil and Environmental Engineering",
+    "Position Title": "Assistant Professor of Civil and Environmental Engineering",
+    "Lat/Long": "39.9812, -75.1553",
+    "City": "Philadelphia, Pennsylvania",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33441",
+    "Input Tokens": "1415",
+    "Output Tokens": "208"
+  },
+  {
+    "Posted Date": "2026-11-13",
+    "Application Deadline": "2026-12-14 23:59 Pacific Time (review/full consideration; early applications encouraged; final deadline 2027-06-30 23:59 Pacific Time; later applications considered if unfilled)",
+    "Application Materials": "Curriculum vitae; Cover letter; Research statement; Teaching statement; Signed reference check authorization form; UCLA Mission Statement; 3–5 reference contacts (portal also lists 3–5 letters)",
+    "University": "University of California, Los Angeles (UCLA)",
+    "Department": "Department of Computer Science, UCLA Samueli School of Engineering",
+    "Position Title": "Multiple Tenure-Track Assistant Professor Positions in Computer Science",
+    "Lat/Long": "34.0689, -118.4452",
+    "City": "Los Angeles, California",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33433",
+    "Input Tokens": "1710",
+    "Output Tokens": "250"
+  },
+  {
+    "Posted Date": "2026-11-16",
+    "Application Deadline": "2026-12-15 (full consideration; applications accepted until the position is filled)",
+    "Application Materials": "Cover letter; Curriculum vitae; Research and teaching statement; Three representative papers; Three reference letters sent directly to the department",
+    "University": "University of Miami",
+    "Department": "Department of Computer Science",
+    "Position Title": "Assistant Professor of Computer Science – Quantum Computing",
+    "Lat/Long": "25.7215, -80.2793",
+    "City": "Coral Gables, Florida",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2598",
+    "Input Tokens": "828",
+    "Output Tokens": "183"
+  },
+  {
+    "Posted Date": "2026-11-13",
+    "Application Deadline": "2026-12-11 (review begins and priority deadline for positions 003295 and 003296; open until filled)",
+    "Application Materials": "Cover letter; Curriculum vitae; Teaching philosophy statement; Research experience/goals statement in Sports Analytics; Contact information for at least three references",
+    "University": "University of North Carolina at Charlotte",
+    "Department": "School of Data Science",
+    "Position Title": "Tenure-Track Assistant Professor in Sports Analytics",
+    "Lat/Long": "35.3075, -80.7352",
+    "City": "Charlotte, North Carolina",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2593",
+    "Input Tokens": "763",
+    "Output Tokens": "236"
   }
 ];
