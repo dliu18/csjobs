@@ -2458,7 +2458,7 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-11-03",
-    "Application Deadline": "2026-12-01 (review begins; full consideration; later applications accepted)",
+    "Application Deadline": "2026-12-01 (review begins; full consideration; applications accepted until 2027-01-04)",
     "Application Materials": "Resume/CV; Combined research and teaching statements (3–5 pages total); Names and email addresses of 3–5 references; Recommendation letters (requested through the online portal)",
     "University": "Stanford University",
     "Department": "Department of Computer Science",
@@ -3599,5 +3599,70 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2599",
     "Input Tokens": "882",
     "Output Tokens": "298"
+  },
+  {
+    "Posted Date": "2026-09-23",
+    "Application Deadline": "2026-11-01 (review begins; full consideration 2026-12-01; early fall interviews possible)",
+    "Application Materials": "Cover letter describing expertise; Statement of teaching interests; Statement of research interests; Complete resume; Publications list; At least three letters of recommendation for junior candidates",
+    "University": "Johns Hopkins University",
+    "Department": "Department of Applied Mathematics and Statistics",
+    "Position Title": "Tenure-Track Faculty (all ranks) — Applied Mathematics, Statistics, Data Science and AI",
+    "Lat/Long": "",
+    "City": "Baltimore, Maryland",
+    "Listing Link": "https://apply.interfolio.com/194226",
+    "Input Tokens": "0",
+    "Output Tokens": "0"
+  },
+  {
+    "Posted Date": "2026-09-07",
+    "Application Deadline": "2026-11-01 (review begins; open until filled)",
+    "Application Materials": "Cover letter; CV including publications list; Research accomplishments and plans; Teaching statement; Three confidential letters of recommendation",
+    "University": "University of Chicago",
+    "Department": "Department of Statistics",
+    "Position Title": "Assistant Professor of Statistics (tenure-track)",
+    "Lat/Long": "",
+    "City": "Chicago, Illinois",
+    "Listing Link": "https://apply.interfolio.com/192854",
+    "Input Tokens": "0",
+    "Output Tokens": "0"
+  },
+  {
+    "Posted Date": "2026-10-30",
+    "Application Deadline": "2026-12-01 (review begins; all materials including letters due for full consideration; open until filled)",
+    "Application Materials": "Cover letter; Complete CV; Research statement describing current and future research; Pedagogical statement; Names and email addresses of at least three recommenders; At least three recommendation letters",
+    "University": "Carnegie Mellon University",
+    "Department": "Department of Statistics & Data Science",
+    "Position Title": "Assistant Professor of Statistics & Data Science (tenure-track)",
+    "Lat/Long": "",
+    "City": "Pittsburgh, Pennsylvania",
+    "Listing Link": "https://apply.interfolio.com/196645",
+    "Input Tokens": "0",
+    "Output Tokens": "0"
+  },
+  {
+    "Posted Date": "2026-09-11",
+    "Application Deadline": "2027-01-10 (full consideration; MathJobs deadline 23:59:59, time zone unstated; open until filled)",
+    "Application Materials": "Submit to both Interview Exchange and MathJobs 28884: Cover letter; CV; Research statement; Teaching statement; At least three research reference letters and one teaching reference letter (statements and letters via MathJobs)",
+    "University": "Binghamton University (SUNY)",
+    "Department": "Department of Mathematics and Statistics",
+    "Position Title": "Assistant Professor of Statistics (tenure-track)",
+    "Lat/Long": "",
+    "City": "Binghamton, New York",
+    "Listing Link": "https://binghamton.interviewexchange.com/jobofferdetails.jsp?JOBID=204738",
+    "Input Tokens": "0",
+    "Output Tokens": "0"
+  },
+  {
+    "Posted Date": "",
+    "Application Deadline": "2026-11-16 23:59 (full consideration; time zone unstated; open until filled)",
+    "Application Materials": "Cover letter; Detailed CV and copies of university transcripts; Teaching and mentoring statement; Research statement; Three references submitting signed letters through emailed upload links",
+    "University": "University of Wisconsin–Madison",
+    "Department": "Department of Statistics, College of Computing & Artificial Intelligence",
+    "Position Title": "Assistant/Associate/Full Professor of Statistics (tenured or tenure-track)",
+    "Lat/Long": "",
+    "City": "Madison, Wisconsin",
+    "Listing Link": "https://jobs.wisc.edu/jobs/assistant-associate-full-professor-of-statistics-madison-wisconsin-united-states",
+    "Input Tokens": "0",
+    "Output Tokens": "0"
   }
 ];
