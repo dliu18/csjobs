@@ -3664,5 +3664,44 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://jobs.wisc.edu/jobs/assistant-associate-full-professor-of-statistics-madison-wisconsin-united-states",
     "Input Tokens": "0",
     "Output Tokens": "0"
+  },
+  {
+    "Posted Date": "2026-10-09",
+    "Application Deadline": "2026-11-15 (review begins; open until filled)",
+    "Application Materials": "Cover letter; Curriculum vitae; Teaching philosophy statement; Research statement; Names of three references, who will be asked to upload recommendation letters",
+    "University": "Columbia University",
+    "Department": "Department of Statistics",
+    "Position Title": "Tenure-Track Assistant Professor of Statistics",
+    "Lat/Long": "",
+    "City": "New York, New York",
+    "Listing Link": "https://apply.interfolio.com/194768",
+    "Input Tokens": "0",
+    "Output Tokens": "0"
+  },
+  {
+    "Posted Date": "2026-09-28",
+    "Application Deadline": "2026-11-09 (screening begins; initial review cycle; later applications receive full consideration while open; final deadline 2026-12-15, time zone unstated)",
+    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Representative papers; List of relevant graduate courses; Four recommendation letters, including at least one evaluating teaching",
+    "University": "University of North Carolina at Chapel Hill",
+    "Department": "Statistics and Operations Research; secondary appointment in Biostatistics",
+    "Position Title": "Tenure-Track Assistant Professor — Safe and Reliable AI for Health",
+    "Lat/Long": "",
+    "City": "Chapel Hill, North Carolina",
+    "Listing Link": "https://unc.peopleadmin.com/postings/325983",
+    "Input Tokens": "0",
+    "Output Tokens": "0"
+  },
+  {
+    "Posted Date": "",
+    "Application Deadline": "2026-09-25 (best consideration; applications accepted until positions are filled)",
+    "Application Materials": "Curriculum vitae; Letter of application; Statement of research and teaching; Research paper/publication/writing sample; Optional evidence of teaching ability and up to three additional research papers",
+    "University": "Indiana University Bloomington",
+    "Department": "Operations and Decision Technologies, Kelley School of Business",
+    "Position Title": "Assistant / Associate / Full Professor — Information Systems (tenured/tenure-track)",
+    "Lat/Long": "",
+    "City": "Bloomington, Indiana",
+    "Listing Link": "https://indiana.peopleadmin.com/postings/33748",
+    "Input Tokens": "0",
+    "Output Tokens": "0"
   }
 ];
