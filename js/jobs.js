@@ -3794,5 +3794,70 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2606",
     "Input Tokens": "1385",
     "Output Tokens": "352"
+  },
+  {
+    "Posted Date": "2026-09-11",
+    "Application Deadline": "2026-11-10 (priority; full consideration 2026-11-15; open until filled)",
+    "Application Materials": "CV; Cover letter (1 page); Research statement (3 pages); Teaching statement (2 pages); Three reference contacts for letters upon request",
+    "University": "University of Washington",
+    "Department": "Information School",
+    "Position Title": "Tenure-Track Assistant Professor — Artificial Intelligence",
+    "Lat/Long": "",
+    "City": "Seattle, Washington",
+    "Listing Link": "https://apply.interfolio.com/192128",
+    "Input Tokens": "0",
+    "Output Tokens": "0"
+  },
+  {
+    "Posted Date": "2026-10-21",
+    "Application Deadline": "2026-11-21 (full consideration; open until filled)",
+    "Application Materials": "CV; Cover letter (1 page); Research statement (3 pages); Teaching statement (2 pages); At least three reference contacts for letters upon request",
+    "University": "University of Washington",
+    "Department": "Information School / Institute for Neurodiversity and Employment",
+    "Position Title": "Tenure-Track Assistant / Associate Professor — Neurodiversity",
+    "Lat/Long": "",
+    "City": "Seattle, Washington",
+    "Listing Link": "https://apply.interfolio.com/195224",
+    "Input Tokens": "0",
+    "Output Tokens": "0"
+  },
+  {
+    "Posted Date": "2026-09-24",
+    "Application Deadline": "2026-11-15 (full consideration; open until filled)",
+    "Application Materials": "Cover letter (up to 2 pages); CV; Research statement; Teaching statement; At least three reference contacts and recommendation letters submitted with the application",
+    "University": "University of Washington",
+    "Department": "Department of Statistics",
+    "Position Title": "Tenure-Track Assistant Professor of Statistics",
+    "Lat/Long": "",
+    "City": "Seattle, Washington",
+    "Listing Link": "https://apply.interfolio.com/194392",
+    "Input Tokens": "0",
+    "Output Tokens": "0"
+  },
+  {
+    "Posted Date": "",
+    "Application Deadline": "2026-11-01 (full priority consideration; open until filled)",
+    "Application Materials": "CV; Cover letter (up to 5 pages) including research and teaching statements; Portal requires a list of references, although narrative requests up to six references only from finalists",
+    "University": "Indiana University Bloomington",
+    "Department": "Epidemiology and Biostatistics, School of Public Health",
+    "Position Title": "Tenure-Track Assistant / Associate Professor of Biostatistics — Machine Learning and AI",
+    "Lat/Long": "",
+    "City": "Bloomington, Indiana",
+    "Listing Link": "https://indiana.peopleadmin.com/postings/34343",
+    "Input Tokens": "0",
+    "Output Tokens": "0"
+  },
+  {
+    "Posted Date": "",
+    "Application Deadline": "2026-10-04 (review date; no final closing date published)",
+    "Application Materials": "Required application documents are not enumerated in the public ad; application entry form requires contact details before proceeding",
+    "University": "Virginia Tech",
+    "Department": "Business Information Technology, Pamplin College of Business",
+    "Position Title": "Tenure-Track Assistant Professor — Business Information Technology",
+    "Lat/Long": "",
+    "City": "Blacksburg, Virginia",
+    "Listing Link": "https://jobs.apply.vt.edu/jobs/assistant-professor-blacksburg-virginia-united-states-420b915d-90c6-4f93-9894-8a0ba9845f36",
+    "Input Tokens": "0",
+    "Output Tokens": "0"
   }
 ];
