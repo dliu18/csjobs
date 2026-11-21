@@ -2393,8 +2393,8 @@ window.CSJOBS_JOBS = [
   },
   {
     "Posted Date": "2026-11-02",
-    "Application Deadline": "2026-12-21 (full consideration)",
-    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Diversity, equity, and inclusion statement; Reference letters",
+    "Application Deadline": "2026-12-21 23:59:59 EST (full consideration; AJO deadline; department-linked HR requisition 291899 still shows prior-cycle 2025-12-31 and AJO 31161; current-cycle HR link unresolved)",
+    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Up to three sample publications; Three or more reference letters via AJO. Department also requires USG CAREERS submission, but linked requisition 291899 displays prior-cycle details.",
     "University": "Georgia Institute of Technology",
     "Department": "School of Computational Science and Engineering",
     "Position Title": "Tenure-Track Assistant, Associate, or Full Professor",
@@ -3859,5 +3859,57 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://jobs.apply.vt.edu/jobs/assistant-professor-blacksburg-virginia-united-states-420b915d-90c6-4f93-9894-8a0ba9845f36",
     "Input Tokens": "0",
     "Output Tokens": "0"
+  },
+  {
+    "Posted Date": "2026-11-20",
+    "Application Deadline": "2027-01-31 (review begins; AJO deadline 23:59:59, timezone unspecified; narrative accepts applications until filled)",
+    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Teaching evaluation summaries, if available; Up to three reprints or preprints; Equity, diversity, and inclusion statement; At least three reference letters",
+    "University": "University of Waterloo",
+    "Department": "Department of Applied Mathematics",
+    "Position Title": "Assistant Professor in Mathematical and Theoretical Physics",
+    "Lat/Long": "43.4723, -80.5449",
+    "City": "Waterloo, Ontario, Canada",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33497",
+    "Input Tokens": "1662",
+    "Output Tokens": "231"
+  },
+  {
+    "Posted Date": "2026-11-20",
+    "Application Deadline": "2027-01-03 23:59 (closing; timezone unspecified)",
+    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement. Reference contacts requested later through Workday (R-15807).",
+    "University": "Washington State University",
+    "Department": "School of Electrical Engineering and Computer Science",
+    "Position Title": "Tenure-Track Assistant Professor in Artificial Intelligence",
+    "Lat/Long": "46.7298, -117.1543",
+    "City": "Pullman, Washington",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2616",
+    "Input Tokens": "838",
+    "Output Tokens": "243"
+  },
+  {
+    "Posted Date": "2026-11-20",
+    "Application Deadline": "2026-12-07 (review begins; full consideration; open until filled)",
+    "Application Materials": "Cover letter; Curriculum vitae; Three reference letters (special instructions require letters; upload fields label them optional).",
+    "University": "Juniata College",
+    "Department": "Computer Science/Information Technology",
+    "Position Title": "Open-rank tenure-track faculty in Computer Science or Information Technology",
+    "Lat/Long": "40.5056, -78.0106",
+    "City": "Huntingdon, Pennsylvania",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2615",
+    "Input Tokens": "672",
+    "Output Tokens": "229"
+  },
+  {
+    "Posted Date": "2026-11-20",
+    "Application Deadline": "2026-12-15 (review begins; applications continue until the position is filled)",
+    "Application Materials": "Cover letter; Curriculum vitae; Teaching philosophy statement; Research statement; Contact information for three reference writers.",
+    "University": "Trinity College",
+    "Department": "Department of Computer Science",
+    "Position Title": "Tenure-track Assistant Professor of Computer Science",
+    "Lat/Long": "41.7473, -72.6917",
+    "City": "Hartford, Connecticut",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2614",
+    "Input Tokens": "653",
+    "Output Tokens": "344"
   }
 ];
