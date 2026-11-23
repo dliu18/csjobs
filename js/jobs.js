@@ -3911,5 +3911,57 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2614",
     "Input Tokens": "653",
     "Output Tokens": "344"
+  },
+  {
+    "Posted Date": "2026-11-23",
+    "Application Deadline": "2026-12-10 (full consideration; CRA says review begins December 2026, day unspecified; open until filled)",
+    "Application Materials": "Cover letter addressing UMBC mission and vision; CV; research statement (recommended two pages); teaching philosophy (recommended one page); names and contact information for at least three references (letters later for shortlisted candidates)",
+    "University": "University of Maryland, Baltimore County",
+    "Department": "Department of Information Systems",
+    "Position Title": "Assistant Professor of Information Systems — Trustworthy AI",
+    "Lat/Long": "39.2557, -76.7110",
+    "City": "Baltimore, Maryland",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2619",
+    "Input Tokens": "884",
+    "Output Tokens": "360"
+  },
+  {
+    "Posted Date": "2026-11-23",
+    "Application Deadline": "2025-11-01 (review begins per CRA; year conflicts with linked requisition opened 2026-11-03 for August 2027 appointment; portal gives no review/closing date; CRA says open until filled; current-cycle review date unverified)",
+    "Application Materials": "Cover letter; Curriculum vitae; Contact information for at least three professional references; Research and educational interests statement (up to three pages)",
+    "University": "Mississippi State University",
+    "Department": "Department of Computer Science and Engineering",
+    "Position Title": "Tenure-Track Assistant, Associate, or Full Professor",
+    "Lat/Long": "33.4550, -88.7930",
+    "City": "Mississippi State, Mississippi",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2618",
+    "Input Tokens": "1279",
+    "Output Tokens": "264"
+  },
+  {
+    "Posted Date": "",
+    "Application Deadline": "2026-11-25 (review begins; open until filled)",
+    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Three recommendation letters sent by referees to pittstat@pitt.edu",
+    "University": "University of Pittsburgh",
+    "Department": "Department of Statistics",
+    "Position Title": "Tenure-Track Assistant Professor of Statistics",
+    "Lat/Long": "",
+    "City": "Pittsburgh, Pennsylvania",
+    "Listing Link": "https://cfopitt.taleo.net/careersection/pitt_faculty_external/jobdetail.ftl?job=453445&lang=en",
+    "Input Tokens": "0",
+    "Output Tokens": "0"
+  },
+  {
+    "Posted Date": "",
+    "Application Deadline": "November 5 (year not stated; full consideration); review begins immediately; open until filled",
+    "Application Materials": "Cover letter; Curriculum vitae; Research samples; Teaching-effectiveness evidence if available; At least three professional reference contacts; Three recommendation letters requested for shortlisted candidates",
+    "University": "Santa Clara University",
+    "Department": "Information Systems and Analytics, Leavey School of Business",
+    "Position Title": "Tenure-Track Assistant Professor — Operations and Business Analytics (two positions)",
+    "Lat/Long": "",
+    "City": "Santa Clara, California",
+    "Listing Link": "https://scu.wd1.myworkdayjobs.com/en-US/scu/job/Tenure-Track-Assistant-Professor-in-Operations-and-Business-Analytics_R8268",
+    "Input Tokens": "0",
+    "Output Tokens": "0"
   }
 ];
