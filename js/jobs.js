@@ -4015,5 +4015,31 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://careercenter.cra.org/jobs?job_id=2621",
     "Input Tokens": "688",
     "Output Tokens": "232"
+  },
+  {
+    "Posted Date": "2026-10-09",
+    "Application Deadline": "2026-11-01 (review begins; anticipated close 2026-12-01; applications continue to be accepted and reviewed if posting remains active)",
+    "Application Materials": "Curriculum vitae; Cover letter; Research statement; Teaching statement; Three recommendation letters sent directly by referees to statistics-jobs@ncsu.edu",
+    "University": "North Carolina State University",
+    "Department": "Department of Statistics",
+    "Position Title": "Tenure-Track Assistant Professor — Climate/Environmental Statistics and Human Health Statistics (two positions)",
+    "Lat/Long": "",
+    "City": "Raleigh, North Carolina",
+    "Listing Link": "https://jobs.ncsu.edu/postings/237716",
+    "Input Tokens": "0",
+    "Output Tokens": "0"
+  },
+  {
+    "Posted Date": "2025-09-01",
+    "Application Deadline": "2025-10-01 (rolling consideration begins, literal portal date; posting explicitly accepts the 2026–2027 application cycle; final 2027-09-01 23:59 Eastern Time)",
+    "Application Materials": "Cover letter describing qualifications; Curriculum vitae; Two-page summary of current and proposed research; Three reference letters",
+    "University": "Yale University",
+    "Department": "Biomedical Informatics and Data Science, School of Medicine",
+    "Position Title": "Tenure-Track Assistant / Associate Professor on Term — Biomedical Informatics and Data Science",
+    "Lat/Long": "",
+    "City": "New Haven, Connecticut",
+    "Listing Link": "https://apply.interfolio.com/172319",
+    "Input Tokens": "0",
+    "Output Tokens": "0"
   }
 ];
