@@ -3963,5 +3963,57 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://scu.wd1.myworkdayjobs.com/en-US/scu/job/Tenure-Track-Assistant-Professor-in-Operations-and-Business-Analytics_R8268",
     "Input Tokens": "0",
     "Output Tokens": "0"
+  },
+  {
+    "Posted Date": "2026-11-24",
+    "Application Deadline": "2026-12-15 (review begins; continues until filled; closes 2027-04-17 00:01 CST / 01:01 EST as stated by portal)",
+    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching philosophy statement; Broader impacts statement; Names and contact information for at least three references; Official transcripts prior to hire",
+    "University": "Louisiana State University",
+    "Department": "Department of Physics and Astronomy",
+    "Position Title": "Tenure-Track Assistant Professors in Experimental Quantum Materials and Devices",
+    "Lat/Long": "30.4133, -91.1800",
+    "City": "Baton Rouge, Louisiana",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33532",
+    "Input Tokens": "2099",
+    "Output Tokens": "242"
+  },
+  {
+    "Posted Date": "2026-11-24",
+    "Application Deadline": "2027-01-15 (closing; AJO specifies 23:59:59 EST; official ETH ad gives date only, portal cutoff time unverified)",
+    "Application Materials": "Cover letter addressed to the President of ETH Zurich; Curriculum vitae; Publication list; Project list; Research statement; Teaching statement; Leadership statement; Three key publications; Descriptions of three most important achievements; Certificate of highest degree",
+    "University": "ETH Zurich",
+    "Department": "Department of Information Technology and Electrical Engineering (D-ITET)",
+    "Position Title": "Assistant Professor (Tenure Track) / Professor of Machine Learning Security",
+    "Lat/Long": "47.3769, 8.5417",
+    "City": "Zurich, Switzerland",
+    "Listing Link": "https://academicjobsonline.org/ajo/jobs/33528",
+    "Input Tokens": "923",
+    "Output Tokens": "254"
+  },
+  {
+    "Posted Date": "2026-11-24",
+    "Application Deadline": "2026-12-14 — Review of applications begins; applications accepted until the position is filled.",
+    "Application Materials": "Cover letter; Curriculum vitae; Research statement; Teaching statement; Contact information for at least three professional references; Official highest-degree transcript required for selected candidate",
+    "University": "University of North Carolina at Charlotte",
+    "Department": "College of Computing and Informatics",
+    "Position Title": "Tenure-Track Assistant Professor",
+    "Lat/Long": "35.3075, -80.7352",
+    "City": "Charlotte, North Carolina",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2622",
+    "Input Tokens": "1017",
+    "Output Tokens": "216"
+  },
+  {
+    "Posted Date": "2026-11-23",
+    "Application Deadline": "2026-11-28 (preferred application deadline; later applications considered as needed; open until filled)",
+    "Application Materials": "Cover letter (maximum 1 page); Curriculum vitae; Teaching statement (maximum 2 pages); Research statement (maximum 2 pages); Three referees may be requested later",
+    "University": "California State University, Northridge",
+    "Department": "Department of Computer Science",
+    "Position Title": "Assistant Professor of Computer Science, Tenure Track (Generalist)",
+    "Lat/Long": "34.2396, -118.5289",
+    "City": "Northridge, California",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2621",
+    "Input Tokens": "688",
+    "Output Tokens": "232"
   }
 ];
