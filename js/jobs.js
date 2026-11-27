@@ -4041,5 +4041,44 @@ window.CSJOBS_JOBS = [
     "Listing Link": "https://apply.interfolio.com/172319",
     "Input Tokens": "0",
     "Output Tokens": "0"
+  },
+  {
+    "Posted Date": "2026-11-24",
+    "Application Deadline": "Review begins after December 7 (year unspecified in CRA ad and university portal); open until filled",
+    "Application Materials": "Cover letter; Curriculum vitae; Three references; Research statement; Teaching statement",
+    "University": "University of Utah",
+    "Department": "Kahlert School of Computing",
+    "Position Title": "Tenure-track/Tenured Assistant or Associate Professor of Computing",
+    "Lat/Long": "40.7649, -111.8421",
+    "City": "Salt Lake City, Utah",
+    "Listing Link": "https://careercenter.cra.org/jobs?job_id=2624",
+    "Input Tokens": "1121",
+    "Output Tokens": "312"
+  },
+  {
+    "Posted Date": "",
+    "Application Deadline": "2026-12-01 (full consideration; complete application and three reference letters due; no final closing date or time zone published)",
+    "Application Materials": "Curriculum vitae; Research statement; Teaching and mentoring plan; Names and contact information of three reference writers; Three recommendation letters",
+    "University": "Massachusetts Institute of Technology",
+    "Department": "Civil and Environmental Engineering; Institute for Data, Systems, and Society",
+    "Position Title": "Tenure-Track Assistant Professor — Learning, Optimization and Control for Networked Infrastructure",
+    "Lat/Long": "",
+    "City": "Cambridge, Massachusetts",
+    "Listing Link": "https://faculty-searches.mit.edu/soe/cee-idss/",
+    "Input Tokens": "0",
+    "Output Tokens": "0"
+  },
+  {
+    "Posted Date": "",
+    "Application Deadline": "2026-12-01 (priority consideration for complete application materials; no final closing date or time zone published)",
+    "Application Materials": "Curriculum vitae; Names and addresses of three or more references; Strategic research statement; Teaching statement; Three representative recent publications; Reference letters",
+    "University": "Massachusetts Institute of Technology",
+    "Department": "Institute for Medical Engineering and Science; partner science or engineering department",
+    "Position Title": "Tenure-Track Assistant Professor — Computational Methods for Health Sciences",
+    "Lat/Long": "",
+    "City": "Cambridge, Massachusetts",
+    "Listing Link": "https://faculty-searches.mit.edu/soe/imes-search/",
+    "Input Tokens": "0",
+    "Output Tokens": "0"
   }
 ];
